@@ -6,7 +6,10 @@ https://gananath.github.io/nerd.html
 
 ![NERD](https://raw.githubusercontent.com/Gananath/gananath.github.io/master/images/nerd.jpg)
 
-
+# Requirements
+- pytorch 1.3
+- pysmiles 1.0
+- sklearn
 
 # Current result
 
