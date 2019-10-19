@@ -24,7 +24,7 @@ CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||... -10.0 -0.502080
 **DOI**: http://doi.org/10.5281/zenodo.3510077
 
 ```
-@misc{gananath2019,
+@misc{gananath2016,
   author = {Gananath, R.},
   title = {NERD},
   year = {2019},
