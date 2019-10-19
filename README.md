@@ -7,11 +7,11 @@ https://gananath.github.io/nerd.html
 
 # Current result
 
-**Epoch: 10000 Reward: -1000.0 Loss: -0.73 
-
+**Epoch: 10000 Reward: -1000.0 Loss: -0.73**
+```
 CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||... -10.0 -0.501915 
 CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||... -10.0 -0.502028 
 CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||... -10.0 -0.502080
-
+```
 
 
