@@ -1,0 +1,1437 @@
+
+
+Epoch: 0 Reward: -1000.0 Loss: -4931.022
+                                               SMILES  Reward   Fitness
+67  rC#1)+S6B4[))|||||||||||||||||||||||||||||||||...   -10.0 -0.821050
+98  rC#1)+S6B4[))|||||||||||||||||||||||||||||||||...   -10.0 -0.900526
+26  rC#1)+S6B4[))|||||||||||||||||||||||||||||||||...   -10.0 -0.956724
+
+
+Epoch: 50 Reward: -1000.0 Loss: -4703.071
+                                               SMILES  Reward   Fitness
+67  rC#)BS6B4B)]||||||||||1|||||||||||C|||||||||||...   -10.0 -0.505981
+31  rC#)BS6B4B))||||||||||1|||||||||||C|||||||||||...   -10.0 -0.506198
+61  rC#)BS6B4B)]||||||||||1|||||||||||C|||||||||||...   -10.0 -0.506959
+
+
+Epoch: 100 Reward: -1000.0 Loss: -2438.99
+                                               SMILES  Reward   Fitness
+46  rC#)BS6BB6)]||||||||||1#||||||||2|F|O||||||||6...   -10.0  0.502598
+56  rC#)BS6BB6)]||||||||||1#||||||||2|C|O||||||||6...   -10.0 -0.504737
+91  rC#)BS6BB6)]||||||||||1#||||||||2|C|P||||||||6...   -10.0 -0.505628
+
+
+Epoch: 150 Reward: -1000.0 Loss: -320.844
+                                               SMILES  Reward   Fitness
+58  rCH6BB6)]F||||C||)|1#||||||||2|lP||||||||6]B|#...   -10.0  0.504766
+38  rCH6BB6)]F||||C||)|1#||||||||2|lP||||||||6]B|#...   -10.0  0.502986
+31  rCHBBB6)]F||||C||)|1#||||||||2|lP||||||||6]B|#...   -10.0  0.502800
+
+
+Epoch: 200 Reward: -1000.0 Loss: -233.107
+                                               SMILES  Reward   Fitness
+59  rCH-BB6)]F|(||C||)|1F||||||||2|lP||]|6]B|#B|||...   -10.0 -0.501746
+60  rCH-BB6)]F|(||C||)|1F||||||||2|lP||]|6]B|#B|||...   -10.0 -0.505228
+32  rCH-BB6)]F|(||C||)|1F||||||||2|lP||]|6]B|#B|||...   -10.0 -0.508612
+
+
+Epoch: 250 Reward: -1000.0 Loss: -212.155
+                                               SMILES  Reward   Fitness
+97  rCH=1)]F|+||C||)|1F|||||||2|lP||6)6|#B||||N|(S...   -10.0 -0.504963
+99  rCH=1)]F|+||C||)|1F|||||||2|lP||6)6|#B||||N|(S...   -10.0 -0.510469
+26  rCH=1)]F|+||C||)|1F|||||||2|lP||6)6|#B||||N|(S...   -10.0 -0.512177
+
+
+Epoch: 300 Reward: -1000.0 Loss: -156.32
+                                               SMILES  Reward   Fitness
+74  rCHS=)]F|+||C||)|1F||||||2|lP||6)|B||||N|(S|||...   -10.0 -0.505541
+0   rCHS=)]F|+||C||)|1F||||||2|lP||6)|B||||N|(S|||...   -10.0 -0.507529
+42  rCHS=)]F|+||C||)|1F||||||2|lP||6)|B||||N|(S|||...   -10.0 -0.509649
+
+
+Epoch: 350 Reward: -1000.0 Loss: -57.874
+                                               SMILES  Reward   Fitness
+16  rCH(|)]F|+||C||)|11||||||2|lP||6)1|1|||N|(S|||...   -10.0 -0.505811
+43  rCHO=)]F|+||C||)|11||||||2|lP||6)1|]|||N|(S|||...   -10.0 -0.506308
+23  rCH(=)]F|+||C||)|11||||||2|lP||6)1|]|||N|(S|||...   -10.0 -0.506365
+
+
+Epoch: 400 Reward: -1000.0 Loss: -115.438
+                                               SMILES  Reward   Fitness
+92  rCH||)]F|+||C||)|11||||||2|lP||4)15F|||N|(S||P...   -10.0 -0.505065
+23  rCH)|)]F|+||C||)|11|]||||2|lP||4)15F|||N|(S||P...   -10.0 -0.509555
+33  rCH)|)]F|+||C||)|11||||||2|lP||4)15F|||N|(S||P...   -10.0 -0.512264
+
+
+Epoch: 450 Reward: -1000.0 Loss: 7.504
+                                               SMILES  Reward   Fitness
+97  rCHF|)]F|+||C||)|1||1||2|lPO|4)15F|||N|(S||PBC...   -10.0 -0.502402
+71  rCHF|)]F|+||C||)|1||1|2|lPO|4)15F|||N|(S||PBC|...   -10.0 -0.512340
+93  rCHF|)]F|+||C||)|1||1||2|lPO|4)15F|||N|(S||PBC...   -10.0 -0.512640
+
+
+Epoch: 500 Reward: -1000.0 Loss: -64.856
+                                               SMILES  Reward   Fitness
+1   rCHF|)]F|+||C||)|1|||2|lPO|)15F||)O|(S||PBC|NB...   -10.0 -0.503569
+51  rCHF|)]F|+||C||)|1|||2|lPO|)15F||)O|(S||PBC|NB...   -10.0 -0.505984
+77  rCHF|)]F|+||C||)|1|||2|lPO|)15F||)O|(S||PBC|NB...   -10.0 -0.512750
+
+
+Epoch: 550 Reward: -1000.0 Loss: -60.833
+                                               SMILES  Reward   Fitness
+66  rCHF|)]F|+||C||)|1|||2|lPO|)45F||)|(S||PB|NBC|...   -10.0 -0.507030
+77  rCHF|)]F|+||C||)|1|||2|lPO|)45F||)|(S||PB|NBC|...   -10.0 -0.508297
+31  rCHF|)]F|+||C||)|1|||2|lPO|)45F||)|(S||PB|NBC|...   -10.0 -0.515082
+
+
+Epoch: 600 Reward: -1000.0 Loss: -42.775
+                                               SMILES  Reward   Fitness
+35  rCHF|)]F|+||C||)|1|||2ClPO|)45F|-)|(S||PB|NBC|...   -10.0 -0.505229
+11  rCHF|)]F|+||C||)|1|||2ClPO|)45F|-)|(S||PB|NBC|...   -10.0 -0.506802
+73  rCHF|)]F|+||C||)|1|||2ClPO|)45F|-)|(S||PB|NBC|...   -10.0 -0.509523
+
+
+Epoch: 650 Reward: -1000.0 Loss: -87.875
+                                               SMILES  Reward   Fitness
+97  rCHF|)]F|+||C||)|1|||2ClPO|)[5F|-)|(S||PB|NBC|...   -10.0 -0.507827
+96  rCHF|)]F|+||C||)|1|||2ClPO|)[5F|-)|(S||PB|NBC|...   -10.0 -0.509495
+17  rCHF|)]F|+||C||)|1|||2ClPO|)[5F|-)|(S||PB|NBC|...   -10.0 -0.511376
+
+
+Epoch: 700 Reward: -1000.0 Loss: -82.596
+                                               SMILES  Reward   Fitness
+33  rCHF|)]F|+||C||)|1|||2ClPO|)[5F|-)H(S||PB|NBC|...   -10.0 -0.515962
+94  rCHF|)]F|+||C||)|1|||2ClPO|)[5F|-)H(S||PB|NBC|...   -10.0 -0.516577
+88  rCHF|)]F|+||C||)|1|||2ClPO|)[5F|-)HS||PB|NBC|H...   -10.0 -0.517919
+
+
+Epoch: 750 Reward: -1000.0 Loss: -104.332
+                                               SMILES  Reward   Fitness
+84  rCHB|)]F|+||C||)|1|||#ClPO|)[5F|-)H(S||PB|NBC|...   -10.0 -0.512117
+30  rCHB|)]F|+||C||)|1|||#ClPO|)[5F|-)H(S||PB|NBC|...   -10.0 -0.514270
+92  rCHB|)]F|+||C||)|1|||#ClPO|)[5F|-)H(S||PB|NBC|...   -10.0 -0.515165
+
+
+Epoch: 800 Reward: -1000.0 Loss: -217.392
+                                               SMILES  Reward   Fitness
+60  rCHB|)]F|+||C||)|1|||#ClPO|)[5F|-)=(S||PB|NBCH...   -10.0 -0.505492
+71  rCHB|)]F|+||C||)|1|||#ClPO|)[5F|-)=(S||PB|NBCH...   -10.0 -0.507016
+49  rCHB|)]F|+||C||)|1|||#ClPO|)[5F|-)=(S||PB|NBCH...   -10.0 -0.510545
+
+
+Epoch: 850 Reward: -1000.0 Loss: -14.977
+                                               SMILES  Reward   Fitness
+70  rCHB|)]F|+||C||)C1||#ClPO|)[5F|-)rSPB|NBCHCH|r...   -10.0 -0.506538
+72  rCHB|)]F|+||C||)C1||#ClPO|)[5F|-)rSPB|NBCHCH|r...   -10.0 -0.506993
+34  rCHB|)]F|+||C||)C1||#ClPO|)[5F|-)rFPB|NBCHCH|r...   -10.0 -0.508366
+
+
+Epoch: 900 Reward: -1000.0 Loss: -233.408
+                                               SMILES  Reward   Fitness
+45  rCHB|)]F|+||C||)C1||#ClPO|)[5F|-)rSPB|NBCHCH|r...   -10.0 -0.509525
+37  rCHB|)]F|+||C||)C1||#ClPO|)[5F|-)rSPB|NBCHCH|r...   -10.0 -0.512354
+22  rCHB|)]F|+||C||)C1||#ClPO|)[5F|-)rSPB|NBCHCH|r...   -10.0 -0.516781
+
+
+Epoch: 950 Reward: -1000.0 Loss: -98.561
+                                               SMILES  Reward   Fitness
+46  rCHB|)]F|+||C||)C1|#ClPO|)[1F|-)rPBPNBCHCH|BF|...   -10.0 -0.501143
+12  rCHB|)]F|+||C||)C1|#ClPO|)[1F|-)rPBPNBCHCH|BF|...   -10.0 -0.504282
+15  rCHB|)]F|+||C||)C1|#ClPO|)[1F|-)rPBPNBCHCH|BF|...   -10.0 -0.504461
+
+
+Epoch: 1000 Reward: -1000.0 Loss: -122.836
+                                               SMILES  Reward   Fitness
+37  rCHB()]F|+||C||)C1|#ClPO4)[1F|-)rPBPNBCHCH|BF|...   -10.0 -0.504425
+96  rCHB()]F|+||C||)C1|#ClPO|)[1F|-)rPBPNBCHCH|BF|...   -10.0 -0.506062
+8   rCHB()]F|+||C||)C1|#ClPO|)[1F|-)rPBPNBCHCH|BF|...   -10.0 -0.507490
+
+
+Epoch: 1050 Reward: -1000.0 Loss: 96.188
+                                               SMILES  Reward   Fitness
+90  rCH()]F|+||C||)C1|#ClPO|)[1F|-)rPPBCHCH|B||B|5...   -10.0 -0.510626
+47  rCH)]F|+||C||)C1|#ClPO|)[1F|-)rPPBCHCH|BF||B|5...   -10.0 -0.511117
+4   rCH()]F|+||C||)C1|#ClPO|)[1F|-)rPPBCHCH|B||B|5...   -10.0 -0.512481
+
+
+Epoch: 1100 Reward: -1000.0 Loss: -66.346
+                                               SMILES  Reward   Fitness
+67  rCH()]F|+||C||)C1|#ClPO|)[1F|-)rPPBCHCH|B||B||...   -10.0 -0.511932
+60  rCH()]F|+||C||)C1|#ClPO|)[1F|-)rPPBCHCH|B||B||...   -10.0 -0.513506
+17  rCH()]F|+||C||)C1|#ClPO|)[1F|-)rPPBCHCH|B||B||...   -10.0 -0.514441
+
+
+Epoch: 1150 Reward: -1000.0 Loss: 28.009
+                                               SMILES  Reward   Fitness
+18  rCH()]F|||C||)C1|#ClPO|)[1F|-)rPPBCCHB||B||)|C...   -10.0 -0.512975
+3   rCH()]F|||C||)C1|#ClPO|)[1F|-)rPPBCCHB||B||)|C...   -10.0 -0.513714
+12  rCH()]F|||C||)C1|#ClPO|)[1F|-)rPPBCCHB||B||)|C...   -10.0 -0.513783
+
+
+Epoch: 1200 Reward: -1000.0 Loss: 5.279
+                                               SMILES  Reward   Fitness
+70  CH(||C||)C1|#ClP|)[1F|-)rPPBCCB||B|)|C||C|=|||...   -10.0 -0.507268
+48  CH(||C||)C1|#ClP|)[1F|-)rPPBCCB||B|)|C||C|=|||...   -10.0 -0.509504
+76  CH(||C||)C1|#ClP|)[1F|-)rPPBCCB||B|)|C||C|=|||...   -10.0 -0.512054
+
+
+Epoch: 1250 Reward: -1000.0 Loss: -121.756
+                                               SMILES  Reward   Fitness
+42  CH(6|C||)C1|#ClP|)1F|-)PPBCB||B|)|CB|C|=|H|C||...   -10.0  0.505200
+68  CH(6|C||)C1|#ClP|)1F|-)PPBCB||B|)|CB|C|=|H|C||...   -10.0  0.500872
+66  CH(6|C||)C1|#ClP|)1F|-)PPBCB||B|)|CB|C|=|H|C||...   -10.0  0.500380
+
+
+Epoch: 1300 Reward: -1000.0 Loss: 56.078
+                                               SMILES  Reward   Fitness
+66  CH(r|C|)C1|#ClP|)1|-)PPBCB||B|)|CB|C|=|H|C|1||...   -10.0 -0.502034
+31  CH(r|C|)C1|#ClP|)1|-)PPBCB||B|)|CB|C|=|H|C|1||...   -10.0 -0.505181
+75  CH(r|C|)C1|#ClP|)1|-)PPBCB||B|)|CB|C|=|H|C|1||...   -10.0 -0.506908
+
+
+Epoch: 1350 Reward: -1000.0 Loss: -94.92
+                                               SMILES  Reward   Fitness
+38  C(CF)C1|#Cl|)1|-)PBCB||B|)|CB|C|=|C|1|||||1C||...   -10.0  0.500456
+65  C(CF)C1|#Cl|)1|-)PBCB||B|)|CB|C|=|C|1|||||1C||...   -10.0 -0.502433
+16  C(CF)C1|#Cl|)1|-)PBCB||B|)|CB|C|=|C|1|||||1C||...   -10.0 -0.503949
+
+
+Epoch: 1400 Reward: -1000.0 Loss: -27.811
+                                               SMILES  Reward   Fitness
+46  C(CF)C1|#Cl|)1|-|PBCB||B|)|CB|C|=|||||1C||||||...   -10.0 -0.505300
+36  C(CF)C1|#Cl|)1|-|PBCB||B|)|CB|C|=|||||1C||||||...   -10.0 -0.505326
+41  C(CF)C1|#Cl|)1|-|PBCB||B|)|CB|C|=|||||1C||||||...   -10.0 -0.506286
+
+
+Epoch: 1450 Reward: -1000.0 Loss: -63.775
+                                               SMILES  Reward   Fitness
+70  C(C)C1|#Cl|)1|-PBCB=|B||CB|C|=|||1C|||C||+||||...   -10.0 -0.503741
+1   C(CF)C1|#Cl|)1|-PBCB=|B||CB|C|=|||1C|||C||+|||...   -10.0 -0.505596
+3   C(CF)C1|#Cl|)1|-PBCB=|B||CB|C|=|||1C|||C||+|||...   -10.0 -0.505681
+
+
+Epoch: 1500 Reward: -1000.0 Loss: -31.353
+                                               SMILES  Reward   Fitness
+75  C(CN)C1|#Cl|)1|-PBCB=|B||CB|C|=||||||C|||||C||...   -10.0  0.500529
+53  C(C)C1|#Cl|)1|-PBCB=|B||CB|C|=||||||C|||||C|||...   -10.0 -0.500187
+0   C(CN)C1|#Cl|)1|-PBCB=|B||CB|C|=||||||C|||||C||...   -10.0 -0.504912
+
+
+Epoch: 1550 Reward: -1000.0 Loss: -4.481
+                                               SMILES  Reward   Fitness
+4   C(CC)C1|#Cl|)1|-FBCB=|B||CB|C|=|||||C|||C||||+...   -10.0  0.506333
+83  C(CN)C1|#Cl|)1|-PBCB=|B||CB|C|=|||||C|||C||||+...   -10.0  0.504133
+0   C(CC)C1|#Cl|)1|-FBCB=|B||CB|C|=|||||C|||C||||+...   -10.0  0.502782
+
+
+Epoch: 1600 Reward: -1000.0 Loss: -90.251
+                                               SMILES  Reward   Fitness
+4   CCNC1|#Cl|)1|-PBCB=|||CB|C=|||||C||C|l+|F#|B|]...   -10.0  0.508806
+72  CCNC1|#Cl|)1|-PBCB=|||CB|C=|||||C||C|l+|F#|B|]...   -10.0  0.501759
+92  CCNC1|#Cl|)1|-PBCB=|||CB|C=|||||C||C|l+|F#|B|]...   -10.0  0.501429
+
+
+Epoch: 1650 Reward: -1000.0 Loss: -20.617
+                                               SMILES  Reward   Fitness
+25  CCN1#Cl|)1|-PBCB=|||CB|C=||||2C|[|+|FB]||)CC2|...   -10.0  0.501545
+28  CCN1#Cl|)1|-PBCB=|||CB|C=||||2C|||+|FB]||)CC2|...   -10.0 -0.502332
+40  CCN1#Cl|)1|-PBCB=|||CB|C=||||2C|||+|FB]||)CC2|...   -10.0 -0.502344
+
+
+Epoch: 1700 Reward: -1000.0 Loss: -56.251
+                                               SMILES  Reward   Fitness
+45  CCN1#C|l1-CB=|||CBC=||||2|||+|F||C2||C|||#|2||...   -10.0  0.500261
+67  CCN1#C|l1-CB=|||CBC=||||2|||+|F]||C2||C|||#|2|...   -10.0 -0.501563
+51  CCN1#C|l1-CB=|||CBC=||||2|||+|F]||C2||C|||#|2|...   -10.0 -0.503119
+
+
+Epoch: 1750 Reward: -1000.0 Loss: -13.316
+                                               SMILES  Reward   Fitness
+60  CCN1#C|l1-CB=|||CBC=||||2|||+|F||C|C||2|)|B|||...   -10.0 -0.504345
+42  CCN1#C|l1-CB=|||CBC=||||2|||+|F||C|C||2|))|B||...   -10.0 -0.507431
+94  CCN1#C|l1-CB=|||CBC=||||2|||+|F||C|C||2|))|B||...   -10.0 -0.507977
+
+
+Epoch: 1800 Reward: -1000.0 Loss: -24.337
+                                               SMILES  Reward   Fitness
+37  CCN#C|1-CB=|||CBC=|||2|||+|F||C|||))||||Or||||...   -10.0 -0.500802
+67  CCN#C|1-CB=|||CBC=|||2|||+|F||C|||))|||||Or|||...   -10.0 -0.501837
+35  CCN#C|1-CB=|||CBC=|||2|||+|F||C|||))|||||Or|||...   -10.0 -0.505024
+
+
+Epoch: 1850 Reward: -1000.0 Loss: 0.813
+                                               SMILES  Reward   Fitness
+95  CCN=|1-CB=|||CBC=|2|||+|F||C|||))|||||||||=|]|...   -10.0 -0.504701
+23  CCNC|1-CB=|||CBC=|2|||+|F||C|||))|||||||||=|]|...   -10.0 -0.506174
+46  CCN#C|1-CB=|||CBC=|2|||+|F||C||))|||||||||=|]|...   -10.0 -0.508558
+
+
+Epoch: 1900 Reward: -1000.0 Loss: -76.125
+                                               SMILES  Reward   Fitness
+67  CCN=|1-CB=||CBC=|2||+|F||C|||))|||||||=|]||C||...   -10.0  0.500442
+24  CCN=|1-CB=||CBC=|2||+|F||C|||))|||||||=|]||C||...   -10.0 -0.503828
+83  CCN=|1-CB=||CBC=|2||+|F||C|||))|||||||=|]||C||...   -10.0 -0.503873
+
+
+Epoch: 1950 Reward: -1000.0 Loss: -30.272
+                                               SMILES  Reward   Fitness
+66  CCN=|1-CB=||CBC=|2||+|F||C||)|||||=|=||||||BB|...   -10.0  0.500228
+42  CCN=|1-CB=||CBC=|2||+|F||C||)|||||=|=||||||BB|...   -10.0 -0.500299
+93  CCN=|1-CB=||CBC=|2||+|F||C||)||||||=||||||BB|=...   -10.0 -0.500754
+
+
+Epoch: 2000 Reward: -1000.0 Loss: -60.431
+                                               SMILES  Reward   Fitness
+85  CCN|1-CB||CC=|2||+F||C||)|||||=|||B||B=||||C||...   -10.0 -0.505949
+53  CCN|1-CB||CC=|2||+F||C||)|||||=|||B||B=||||C||...   -10.0 -0.506911
+27  CCN|1-CB||CC=|2||+F||C||)|||||=|||B||B=||||C||...   -10.0 -0.508878
+
+
+Epoch: 2050 Reward: -1000.0 Loss: 12.857
+                                               SMILES  Reward   Fitness
+44  CCN2-CB|1CC=|2||+F||C||)|||||=|||B|B=|CC||||||...   -10.0 -0.508445
+23  CCN2-CB|1CC=|2||+F||C||)|||||=|||B|B=|CC||||||...   -10.0 -0.508917
+35  CCN2-CB|1CC=|2||+F||C||)|||||=|||B|B=|CC||||||...   -10.0 -0.509456
+
+
+Epoch: 2100 Reward: -1000.0 Loss: -40.088
+                                               SMILES  Reward   Fitness
+67  CCN-CB|1CC=|2||+F||C||)|||||||B|B|C||||F|B||||...   -10.0 -0.508277
+15  CCN-CB|1CC=|2||+F||C||)|||||||B|B|C|||||B|||||...   -10.0 -0.509091
+99  CCN-CB|1CC=|2||+F||C||)|||||||B|B|C||||F|B||||...   -10.0 -0.509417
+
+
+Epoch: 2150 Reward: -1000.0 Loss: -25.992
+                                               SMILES  Reward   Fitness
+2   CCN-CB|1CC=|2||+F||C|)|||||||B|B|C||||F||N||||...   -10.0  0.500492
+33  CCN-CB|1CC=|2||+F||C|)|||||||B|B|C||||F||N||||...   -10.0 -0.502735
+69  CCN-CB|1CC=|2||+F||C|)|||||||B|B|C||||F||N||||...   -10.0 -0.506956
+
+
+Epoch: 2200 Reward: -1000.0 Loss: -23.838
+                                               SMILES  Reward   Fitness
+65  CCNCB|1CC=|2|(+F||C|)|||||||B|B|C|||F|||||CC||...   -10.0 -0.503855
+9   CCNCB|1CC=|2|(+F||C|)|||||||B|B|C|||F|||)||CC|...   -10.0 -0.504528
+94  CCNCB|1CC=|2|(+F||C|)|||||||B|B|C|||F||||||CC|...   -10.0 -0.506955
+
+
+Epoch: 2250 Reward: -1000.0 Loss: -21.578
+                                               SMILES  Reward   Fitness
+81  CCNCB|1CC=|2|(+F||C|)|||||||B|B|C|F|||C|||||||...   -10.0 -0.509502
+95  CCNCB|1CC=|2|(+F||C|)||||||B|B|C|F|||C||||||||...   -10.0 -0.510584
+93  CCNCB|1CC=|2|(+F||C|)|||||||B|B|C|F|||C|||||||...   -10.0 -0.511324
+
+
+Epoch: 2300 Reward: -1000.0 Loss: -23.899
+                                               SMILES  Reward   Fitness
+93  CCNCB|1CC=|2|(+F||C|)||||||BB|C|F||C|||||||||l...   -10.0  0.504550
+97  CCNCB|1CC=|2|(+F||C|)||||||BB|C|F||C|||||||||l...   -10.0 -0.501257
+94  CCNCB|1CC=|2|(+F||C|)||||||BB|C|F||C|||||||||l...   -10.0 -0.501955
+
+
+Epoch: 2350 Reward: -1000.0 Loss: -16.013
+                                               SMILES  Reward   Fitness
+81  CCNCB|1CC=|2|(+F||C|B||||||BB|C|F|C||||l||||C|...   -10.0 -0.504857
+57  CCNCB|1CC=|2|(+F||C|B||||||BB|C|F|C||||l||||C|...   -10.0 -0.505588
+68  CCNCB|1CC=|2|(+F||C|B||||||BB|C|F|C||||l|||C|(...   -10.0 -0.508681
+
+
+Epoch: 2400 Reward: -1000.0 Loss: -32.945
+                                               SMILES  Reward   Fitness
+15  CCNCB|1CC=|2S(+F||C|B||||||BB|C|F||l|(|||||F|=...   -10.0 -0.503466
+84  CCNCB|1CC=|2S(+F||C|B||||||BB|C|F||l|(|||||F|=...   -10.0 -0.507195
+87  CCNCB|1CC=|2S(+F||C|B||||||BB|C|F||l|(|||||F|=...   -10.0 -0.507493
+
+
+Epoch: 2450 Reward: -1000.0 Loss: -24.594
+                                               SMILES  Reward   Fitness
+42  CCNCB61CC=|2S(+F||C|||||||BB|CF||l(||||F=|||||...   -10.0 -0.508667
+53  CCNCB61CC=|2S(+F||C|||||||BB|CF||l(||||F=|||||...   -10.0 -0.509016
+47  CCNCB61CC=|2S(+F||C|||||||BB|CF||l(||||F=|||||...   -10.0 -0.509243
+
+
+Epoch: 2500 Reward: -1000.0 Loss: -15.499
+                                               SMILES  Reward   Fitness
+2   CCNCB61CC=|2S(+F||C||||||BB|CF||l(|F=||||||F|=...   -10.0 -0.511206
+68  CCNCB61CC=|2S(+F||C||||||BB|CF||l(|F=||||||F||...   -10.0 -0.513408
+51  CCNCB61CC=|2S(+F||C||||||BB|CF|l(|F=||||||F||=...   -10.0 -0.513751
+
+
+Epoch: 2550 Reward: -1000.0 Loss: 38.022
+                                               SMILES  Reward   Fitness
+12  CCNCB61CC=|2S(+F||C||||||BB|C||l(|=|||]||F|=|P...   -10.0 -0.506841
+74  CCNCB61CC=|2S(+F||C||||||BB|C||l(|=|||]||F|=|P...   -10.0 -0.510562
+20  CCNCB61CC=|2S(+F||C||||||BB|C||l(|=|||]||F|=|P...   -10.0 -0.510756
+
+
+Epoch: 2600 Reward: -1000.0 Loss: -44.047
+                                               SMILES  Reward   Fitness
+23  CCNCB61CC=|2S(+F||C|||||BB|C|l(=|||F|=||||||||...   -10.0 -0.501763
+19  CCNCB61CC=|2S(+F||C|||||BB|C|l(=|||F|=||||||||...   -10.0 -0.505495
+60  CCNCB61CC=|2S(+F||C|||||BB|C|l(=|||F|=||||||||...   -10.0 -0.506380
+
+
+Epoch: 2650 Reward: -1000.0 Loss: -7.54
+                                               SMILES  Reward   Fitness
+0   CCNCB61CC=|2S+F||C|||||BB|C|l(=|||||||||||||+|...   -10.0 -0.503462
+37  CCNCB61CC=|2S+F||C|||||BB|C|l(=||||||||||||||N...   -10.0 -0.505502
+45  CCNCB61CC=|2S+F||C|||||BB|C|l(=|||||||||||||+|...   -10.0 -0.506915
+
+
+Epoch: 2700 Reward: -1000.0 Loss: -33.796
+                                               SMILES  Reward   Fitness
+57  CCNCB61CC=|2SF||C|||||BB|Cl=||||||||C+|N||||||...   -10.0 -0.502531
+4   CCNCB61CC=|2SF||C|||||BB|Cl=|||||||||+|N||||||...   -10.0 -0.502609
+77  CCNCB61CC=|2SF||C|||||BB|Cl=|||||||||+|N||||||...   -10.0 -0.503704
+
+
+Epoch: 2750 Reward: -1000.0 Loss: -4.172
+                                               SMILES  Reward   Fitness
+93  CCNCB61CC=|2SF|C|||||BB|Cl=||C+|N||H||||NF|-|C...   -10.0 -0.505010
+73  CCNCB61CC=|2SF|C|||||BB|Cl=||C+|N||H|||||NF|-|...   -10.0 -0.507599
+98  CCNCB61CC=|2SF|C|||||BB|Cl=||C+|N||H||||P|NF|-...   -10.0 -0.508356
+
+
+Epoch: 2800 Reward: -1000.0 Loss: -67.402
+                                               SMILES  Reward   Fitness
+94  CCNCB61CC=|2SF|C|||||BB|Cl=||C+|N|H||||C=|||||...   -10.0 -0.503784
+75  CCNCB61CC=|2SF|C|||||BB|Cl=||C+|N|H||||C=|||||...   -10.0 -0.503915
+43  CCNCB61CC=|2SF|C|||||BB|Cl=||C+|N|H||||C=|||||...   -10.0 -0.505986
+
+
+Epoch: 2850 Reward: -1000.0 Loss: -29.397
+                                               SMILES  Reward   Fitness
+70  CCCB61CCF|2SF|C|||CBB|Cl=|||N|4|||C|||l|||]|||...   -10.0  0.501476
+65  CCCB61CCF|2SF|C|||CBB|Cl=|||N|4|||C|||l|||]|||...   -10.0 -0.503928
+76  CCCB61CCF|2SF|C|||CBB|Cl=|||N|4|||C|||l|||]|||...   -10.0 -0.504596
+
+
+Epoch: 2900 Reward: -1000.0 Loss: -36.068
+                                               SMILES  Reward   Fitness
+63  CCCB61CC|SF|C||CBB|l-||N4|||C|6l||]||||||||C||...   -10.0 -0.501782
+4   CCCB61CC|2SF|C||CBB|l-||N4|||C|6l||]|||||||C||...   -10.0 -0.507653
+36  CCCB61CC|2SF|C||CBB|l-||N4|||C|6l||]|||||||C||...   -10.0 -0.511515
+
+
+Epoch: 2950 Reward: -1000.0 Loss: 11.461
+                                               SMILES  Reward   Fitness
+24  CCCB61CC|=F|C|CBB|l-||N||C|6l|]||||CH|||CC|||=...   -10.0 -0.500494
+0   CCCB61CC|=F|C||CBB|l-||N||C|6l|]|||CH|||CC|||=...   -10.0 -0.506513
+70  CCCB61CC|=F|C||CBB|l-||N||C|6l|]||||CH||CC|||=...   -10.0 -0.508706
+
+
+Epoch: 3000 Reward: -1000.0 Loss: -6.482
+                                               SMILES  Reward   Fitness
+59  CC61CC|=C|C|CBB|2N|N||C|6l|]|||C||C|||||||||||...   -10.0 -0.504151
+48  CCCB61CC|=C|C||CBB|2N|N||C|6l|]|||C||C||||||||...   -10.0 -0.504532
+74  CCCB61CC|=C|C||CBB|2N|N||C|6l|]|||C||C||||||||...   -10.0 -0.506944
+
+
+Epoch: 3050 Reward: -1000.0 Loss: -37.647
+                                               SMILES  Reward   Fitness
+68  CCCCC|=C|C||CBB|2N|N|C|6|]|||C||C|||||||||||||...   -10.0 -0.504907
+26  CCCCC|=C|C||CBB|2N|N||C|6|]|||C||C||||||||||||...   -10.0 -0.504936
+48  CCCCC|=C|C||CBB|2N|N||C|6|]|||C||C||||||||||||...   -10.0 -0.505055
+
+
+Epoch: 3100 Reward: -1000.0 Loss: 0.619
+                                               SMILES  Reward   Fitness
+71  CCCC|=CC|CBB|2N|||C6|]|||C|C||||||||||||||||||...   -10.0  0.503547
+58  CCCC|=CC|CBB|2N|||C6|]|||C|C||||||||||||||||||...   -10.0  0.502061
+83  CCCC|=CC|CBB|2N|||C6|]|||C|C||||||||||||||||||...   -10.0 -0.503920
+
+
+Epoch: 3150 Reward: -1000.0 Loss: 8.211
+                                               SMILES  Reward   Fitness
+14  CCCC|=CCCBB2N|||C6||3|C|C||||||||||||||||+||||...   -10.0  0.500851
+87  CCCC|=CCCBB2N|||C6||3|C|C||||||||||||||||+||||...   -10.0 -0.502218
+34  CCCC|=CCCBB2N|||C6||3|C|C|||||||||||||||+|||||...   -10.0 -0.503042
+
+
+Epoch: 3200 Reward: -1000.0 Loss: 23.313
+                                               SMILES  Reward   Fitness
+83  CCCC|=CCCBB2N|||C6||3|C|C||||||||||||+l|||||C|...   -10.0 -0.502591
+92  CCCC|=CCCBB2N|||C6||3|C|C||||||||||||+l|||||C|...   -10.0 -0.505924
+72  CCCC|=CCCBB2N|||C6||3|C|C||||||||||||+l||||C||...   -10.0 -0.507239
+
+
+Epoch: 3250 Reward: -1000.0 Loss: -7.168
+                                               SMILES  Reward   Fitness
+59  CCCC=CCCBB2N|||C||||C|||||||||||||||4|F|||||||...   -10.0 -0.503345
+35  CCCC=CCCBB2N|||C||||C|||||||||||||||4|F|||||||...   -10.0 -0.504641
+80  CCCC=CCCBB2N|||C||||C||||||||||||||||4|F||||||...   -10.0 -0.505708
+
+
+Epoch: 3300 Reward: -1000.0 Loss: 33.357
+                                               SMILES  Reward   Fitness
+94  CCCC=CCCBB2|||C||||C||||||||||||||4||||||B|F||...   -10.0  0.501309
+9   CCCC=CCCBB2|||C||||C||||||||||||||4]|||||B|F||...   -10.0 -0.502747
+52  CCCC=CCCBB2|||C||||C|||||||||||||||||||||B|F||...   -10.0 -0.505385
+
+
+Epoch: 3350 Reward: -1000.0 Loss: -53.089
+                                               SMILES  Reward   Fitness
+54  CCCC=CCCBB2|||C||||C||||||||||||4]||||#|||6|||...   -10.0 -0.500186
+78  CCCC=CCCBB2|||C||||C||||||||||||4]|B|||#||6|||...   -10.0 -0.503459
+4   CCCC=CCCBB2|||C||||C||||||||||||4]|B|||#||6|||...   -10.0 -0.504471
+
+
+Epoch: 3400 Reward: -1000.0 Loss: 4.766
+                                               SMILES  Reward   Fitness
+84  CCCC=CCCBB2|CC||||C||||||||||||4]|B|||#6||(|||...   -10.0  0.502154
+18  CCCC=CCCBB2|CC||||C||||||||||||4]|B|||#6||(|||...   -10.0 -0.501784
+62  CCCC=CCCBB2|CC||||C||||||||||||4]|B|||#6||(|||...   -10.0 -0.503984
+
+
+Epoch: 3450 Reward: -1000.0 Loss: -15.675
+                                               SMILES  Reward   Fitness
+1   CCC=CCCBB2|CC|||C||||||||||||4B|||#(|||=|||BP|...   -10.0 -0.504011
+26  CCC=CCCBB2|CC|||C||||||||||||4B|||#(|||=|||BP|...   -10.0 -0.504537
+67  CCC=CCCBB2|CC|||C||||||||||||4B|||#(|||=|||BP|...   -10.0 -0.505888
+
+
+Epoch: 3500 Reward: -1000.0 Loss: -16.797
+                                               SMILES  Reward   Fitness
+11  CCC=CCCBB2|CC|||C||||||||||||4B||#||=|[CBP|=|F...   -10.0  0.503757
+14  CCC=CCCBB2|CC|||C||||||||||||4B||#||=|[CBP|=|F...   -10.0  0.502137
+96  CCC=CCCBB2|CC|||C||||||||||||4B||#||=|[CBP|=|F...   -10.0 -0.501310
+
+
+Epoch: 3550 Reward: -1000.0 Loss: -11.642
+                                               SMILES  Reward   Fitness
+47  CCC=CCCBB2|CC|||C|C||||||||||B||#H||[CP|=|FS||...   -10.0  0.500429
+0   CCC=CCCBB2|CC|||C|C||||||||||B||#H||[CP=|FS|||...   -10.0 -0.500585
+77  CCC=CCCBB2|CC|||C|C||||||||||B||#H||[CP|=|FS||...   -10.0 -0.500681
+
+
+Epoch: 3600 Reward: -1000.0 Loss: 8.606
+                                               SMILES  Reward   Fitness
+17  CCC=CCCBB2|CC|||CC||||||B|#H||[C|=|S|||1||||||...   -10.0  0.506021
+51  CCC=CCCBB2|CC|||CC||||||B|#H||[C|=|S|||1||||||...   -10.0 -0.500567
+16  CCC=CCCBB2|CC|||CC||||||B|#H||[C|=|S|||1||||||...   -10.0 -0.501449
+
+
+Epoch: 3650 Reward: -1000.0 Loss: -22.289
+                                               SMILES  Reward   Fitness
+7   CCC=CCCBB#|CC|||CC||||B|#H||[C=2S||1||||C||||C...   -10.0  0.500310
+22  CCC=CCCBB#|CC|||CC||||B|#H||[C=2S||1|||||C||||...   -10.0  0.500255
+55  CCC=CCCBB#|CC|||CC||||B|#H||[C=2S||1||||C||||C...   -10.0 -0.502614
+
+
+Epoch: 3700 Reward: -1000.0 Loss: -11.036
+                                               SMILES  Reward   Fitness
+3   CCC=CCCBB=|CC|||CC||||B|#H||[(=2|||||||C||||C#...   -10.0 -0.500915
+0   CCC=CCCBB=|CC|||CC||||B|#H||[(=2|||||||C||||C#...   -10.0 -0.501381
+89  CCC=CCCBB=|CC|||CC||||B|#H||[(=2|||||||C||||C#...   -10.0 -0.502675
+
+
+Epoch: 3750 Reward: -1000.0 Loss: -13.501
+                                               SMILES  Reward   Fitness
+51  CCC=CCCBB=|CC|||CCC||B|#H||[=2||||||C||S||||)|...   -10.0 -0.500273
+81  CCC=CCCBB=CC|||CCC||B|#H||[=2||||||C||S||||)||...   -10.0 -0.501755
+14  CCC=CCCBB=|CC|||CCC||B|#H||[(=2||||]||C|S||||)...   -10.0 -0.503471
+
+
+Epoch: 3800 Reward: -1000.0 Loss: -4.898
+                                               SMILES  Reward   Fitness
+61  CCC=CCCBB=|CC|-|CCC||B|#H||[=2||||C||[|)||S6||...   -10.0  0.507763
+74  CCC=CCCB=|CC|-|CCC||B|#H||[=2||||C||[|)|||S6||...   -10.0  0.507601
+52  CCC=CCCB=|CC|-|CCC||B|#H||[=2||||C||[|)|||S6||...   -10.0  0.502962
+
+
+Epoch: 3850 Reward: -1000.0 Loss: -4.732
+                                               SMILES  Reward   Fitness
+32  CCC=CCCBB=|CC||CCC|#H||[=2||||C|||6|||||)||||N...   -10.0  0.512894
+61  CCC=CCCBB=|CC||CCC|#H||[=2||||C|||6|||||)||||N...   -10.0  0.507404
+56  CCC=CCCBB=|CC||CCC|#H||[=2||||C|||6|||||)||||N...   -10.0  0.504411
+
+
+Epoch: 3900 Reward: -1000.0 Loss: -6.337
+                                               SMILES  Reward   Fitness
+65  CC=CCCBB|CC||CCC|#H|[=2|||C|||6|||||||||||||||...   -10.0  0.503597
+63  CC=CCCBB|CC||CCC|#H|[=2|||C|||6|||||||||||||||...   -10.0  0.502758
+19  CC=CCBB|CC||CCC|#H|[=2|||C|||6||||||||||||||||...   -10.0  0.501857
+
+
+Epoch: 3950 Reward: -1000.0 Loss: -4.003
+                                               SMILES  Reward   Fitness
+85  CCOBCCBB|CC||CCC|#H[=2|||C||6||||||||||||C|=||...   -10.0  0.508166
+47  CCOBCCBB|CC||CCC|#H[=2|||C||6||||||||||||C|=||...   -10.0  0.505017
+73  CCOBCCBB|CC||CCC|#H[=2|||C||6|||||||||||C|=|||...   -10.0  0.501409
+
+
+Epoch: 4000 Reward: -1000.0 Loss: 7.764
+                                               SMILES  Reward   Fitness
+83  CCOBCBBFCC|CCC|#H[=2|||C|||||||||||C|=||||FF||...   -10.0 -0.500369
+85  CCOBCBBFCC|CCC|#H[=2|||C|||||||||||C|=||||FF||...   -10.0 -0.502154
+30  CCOBCBBFCC|CCC|#H[=2|||C|||||||||||C|=||||FF||...   -10.0 -0.502945
+
+
+Epoch: 4050 Reward: -1000.0 Loss: -21.029
+                                               SMILES  Reward   Fitness
+90  CCOBCBBFCC|CCC|#H[=2|||C||||||6|||C+=||B||||||...   -10.0  0.504997
+9   CCOBCBBFCC|CCCF#H[=2|||C||||||6|||C+5||B||||||...   -10.0 -0.500439
+66  CCOBCBBFCC|CCC|#H[=2|||C||||||6|||C+=||B||||||...   -10.0 -0.501484
+
+
+Epoch: 4100 Reward: -1000.0 Loss: -6.038
+                                               SMILES  Reward   Fitness
+85  CCOBCBBFCC|CC|#H[2||C|2|||6|||=||B||||||||||6B...   -10.0  0.504460
+81  CCOBCBBFCC|CC|#H[2||(|2|||6|||=||B|||||||||||6...   -10.0  0.502812
+26  CCOBCBBFCC|CC|#H[2|||C|2|||6|||=||B|||||||||||...   -10.0  0.501014
+
+
+Epoch: 4150 Reward: -1000.0 Loss: 4.197
+                                               SMILES  Reward   Fitness
+8   CCOBCBBFCC|CC|#H[2|C2||6|||=||B||||||6BN||||||...   -10.0 -0.500420
+17  CCOBCBBFCC|CC|#H[2|C2||6|||=||B||||||6BN||||||...   -10.0 -0.501112
+95  CCOBCBBFCC|CC|#H[2|C2||6|||=||B||||||6BN||||||...   -10.0 -0.504005
+
+
+Epoch: 4200 Reward: -1000.0 Loss: -7.15
+                                               SMILES  Reward   Fitness
+6   CCOBCBBFCC|CC|#H2|C2B|6|||=|CB|||||#6BN|||||N1...   -10.0  0.506995
+13  CCOBCBBFCC|CC|#H2|C2B|6|||=|CB|||||#6BN|||||N1...   -10.0  0.504787
+79  CCOBCBBFCC|CC|#H2|C2B|6|||=|CB|||||#6BN|||||N1...   -10.0  0.504176
+
+
+Epoch: 4250 Reward: -1000.0 Loss: -2.042
+                                               SMILES  Reward   Fitness
+33  CCOBCBBFCC|CC|FH2|C2B6|||=|CB|||||6BN|||#|N1|6...   -10.0  0.513885
+97  CCOBCBBFCC|CC|FH2|C2B6|||=|CB|||||6BN|||#|N1|6...   -10.0  0.512103
+42  CCOBCBBFCC|CC|FHF|C2B6|||=|CB|||||6BN|||#|N1|6...   -10.0  0.509891
+
+
+Epoch: 4300 Reward: -1000.0 Loss: -9.34
+                                               SMILES  Reward   Fitness
+52  CCOBCBBFCC=CC|FH2|C2B6|||=|CB|||||4B||N|N|6FB+...   -10.0  0.516973
+9   CCOBCBBFCC=CC|FH2|C2B6|||=|CB|||||HBN|r||N|6FB...   -10.0  0.516220
+76  CCOBCBBFCC=CC|FH2|C2B6|||=|CB|||||4B||N|N|6FB+...   -10.0  0.512028
+
+
+Epoch: 4350 Reward: -1000.0 Loss: -1.671
+                                               SMILES  Reward   Fitness
+23  CCOBCBBFCC=CC|FH2|C2B6|||=CB||||4B||N|N|6FB+||...   -10.0  0.513980
+40  CCOBCBBFCC=CC|FH2|C2B6|||=CB||||4B||N|N|6FB+||...   -10.0  0.511505
+45  CCOBCBBFCC=CC|FH2|C2B6|||=CB||||4B||N|N|6FB+||...   -10.0  0.508654
+
+
+Epoch: 4400 Reward: -1000.0 Loss: 0.03
+                                               SMILES  Reward   Fitness
+87  CCOBCBBFCC=CC|FH2|C246|||=B|||4BC||N[6FB||-F=|...   -10.0  0.517716
+36  CCOBCBBFCC=CC|FH2|C246|||=B|||4BC||N[6FB||-F=|...   -10.0  0.516425
+63  CCOBCBBFCC=CC|FH2|C246|||=B|||4BC||N[6FB||-F=|...   -10.0  0.512999
+
+
+Epoch: 4450 Reward: -1000.0 Loss: -8.725
+                                               SMILES  Reward   Fitness
+87  CCOBCBBFCC=CC|FH2|C2#6||=N||4BC||-6B|-F=||N=||...   -10.0  0.508135
+5   CCOBCBBFCC=CC|[H2|C2#6||=N||4BC||-6B|-F=|N=|||...   -10.0  0.507947
+2   CCOBCBBFCC=CC|FH2|C2#6||=N||4BC||-6B|-F=||N=||...   -10.0  0.501904
+
+
+Epoch: 4500 Reward: -1000.0 Loss: -7.188
+                                               SMILES  Reward   Fitness
+65  CCOCCBBFCCCC|[H=|C2#6||=C||4BC||-3-F=-|=|-|l|+...   -10.0  0.506418
+6   CCOCCBBFCCCC|[H=|C2#6||=C||4BC||-3-F=-|=|-|l|+...   -10.0  0.503330
+20  CCOCCBBFCCCC|[H=|C2#6||=C||4BC||-3-F=-|=|-|l|+...   -10.0  0.503230
+
+
+Epoch: 4550 Reward: -1000.0 Loss: -9.346
+                                               SMILES  Reward   Fitness
+27  CCOCCBBFCCCC=C2#||=CC||-3-N=2|=-|l|B|N||#||r)|...   -10.0  0.508941
+22  CCOCCBBFCCCC=C2#||=C|C||-3-F=2|=-|l|B|#||#||r)...   -10.0  0.506663
+77  CCOCCBBFCCCC=C2#||=CC||-3-N=2|=-|l|B|N||#||r)|...   -10.0  0.506397
+
+
+Epoch: 4600 Reward: -1000.0 Loss: -2.968
+                                               SMILES  Reward   Fitness
+79  CCCCBBFCCC=2l|=CC|=3N=2|-|l|B|N|#|rC|4|-||||||...   -10.0  0.507255
+28  CCCCBBFCCC=2#|=CC|=3N=2|-|l|B|N|#||rC|4|-S||||...   -10.0  0.504469
+2   CCCCBBFCCC=2#|=CC|=3N=2|-|l|B|N|#||rC|4|-S||||...   -10.0  0.503265
+
+
+Epoch: 4650 Reward: -1000.0 Loss: -0.468
+                                               SMILES  Reward   Fitness
+40  CCCCBBFCCC=2l|=CC|=rN=2|-|l|B|N||rC4F-|6||||1|...   -10.0  0.510541
+89  CCCCBBFCCC=2l|=CC|=rN=2|-|l|B|N||rC4F-|6||||1|...   -10.0  0.506355
+18  CCCCBBFCCC=2l|=CC|=rN=2|-|l|B|N||rC4F-|6r|||1|...   -10.0  0.504719
+
+
+Epoch: 4700 Reward: -1000.0 Loss: 0.033
+                                               SMILES  Reward   Fitness
+10  CCCCBBFCCC=2|=CC|=rN=2|-|l||N||rC4F-|6#|1||4l|...   -10.0  0.515503
+43  CCCCBBFCCC=2l|=CC|=rN=2|-|l||N||rC4F-|6#|1||4l...   -10.0  0.507420
+38  CCCCBBFCCC=2|=CC|=rN=2|-|l||N||rC4F-|6#|1||4l|...   -10.0  0.505498
+
+
+Epoch: 4750 Reward: -1000.0 Loss: -1.531
+                                               SMILES  Reward   Fitness
+54  CCCCBBFCCC2O|=CC|N=|-|l||N|rC+F-||1Bl|#|||||B|...   -10.0  0.509595
+73  CCCCBBFCCC2O|=CC|N=|-l||N|rC+F-||1Bl|#|||||B||...   -10.0  0.506174
+77  CCCCBBFCCC2O|=CC|N=|-|l||N|rC+F-||1Bl|#|||||B|...   -10.0  0.505664
+
+
+Epoch: 4800 Reward: -1000.0 Loss: -2.668
+                                               SMILES  Reward   Fitness
+36  CCCCBBFCCC2O|=CC|N=|l||N|rC+F-||11#||||B||C|||...   -10.0  0.510514
+13  CCCCBBFCCC2O|=CC|N=|l||NrC+F-||11#||||B||C||||...   -10.0  0.509774
+81  CCCCBBFCCC2O|=CC|N=|l||NrC+F-||11#||||B||C||||...   -10.0  0.508412
+
+
+Epoch: 4850 Reward: -1000.0 Loss: -1.23
+                                               SMILES  Reward   Fitness
+50  CCCCBBFCCC2O|=CC|N=|||NrC+F-||11#||N|B||C|||||...   -10.0  0.517730
+48  CCCCBBFCCC2O|=CC|N=|||NrC+F-||11#||N|B||C|||||...   -10.0  0.516905
+61  CCCCBBFCCC2O|=CC|N=|||NrC+F-||11#||N|B||C|||||...   -10.0  0.514956
+
+
+Epoch: 4900 Reward: -1000.0 Loss: -2.683
+                                               SMILES  Reward   Fitness
+79  CCCCBBFCCC22|=CC|N=|||Nr3+F-||1B#||N|B||C||-||...   -10.0  0.509501
+30  CCCCBBFCCC22|=CC|N=|||Nr3+F-||1B#||NB||C||-||F...   -10.0  0.509374
+97  CCCCBBFCCC22|=CC|N=|||Nr3+F-||1B#||N|B||C||-||...   -10.0  0.505287
+
+
+Epoch: 4950 Reward: -1000.0 Loss: -0.836
+                                               SMILES  Reward   Fitness
+44  CCCCBBFCCC22|=CC|N=|l|Nr3+F-||1B#||N|B1|C||-||...   -10.0  0.516841
+49  CCCCBBFCCC22|=CC|N=|C|Nr3+F-||1B#||N|B1|C||-||...   -10.0  0.515658
+26  CCCCBBFCCC22|=CC|N=|l|Nr3+F-||1B#||N|B1|C||-||...   -10.0  0.508424
+
+
+Epoch: 5000 Reward: -1000.0 Loss: 1.514
+                                               SMILES  Reward   Fitness
+80  CCCCBBFBCC2|CCC|N=|CFr3+F-|1B#||N|1|C||-r|+||]...   -10.0  0.515914
+27  CCCCBBFBCC2|=CC|N=|CFr3+F-|1B#||N|1|C||-r|+||]...   -10.0  0.513309
+76  CCCCBBFBCC2|CCC|N=|CFr3+F-|1B#||N|1|C||-r|+||]...   -10.0  0.512218
+
+
+Epoch: 5050 Reward: -1000.0 Loss: 1.846
+                                               SMILES  Reward   Fitness
+50  CCCCBBFBCC=|CC|N=|CF-1B#||N|1|C||r-|]=C|#C=16=...   -10.0  0.514895
+22  CCCCBBFBCC=|CC|N=|CF-1B#||N|1|C||r|]=C|#C=16=#...   -10.0  0.512116
+33  CCCCBBFBCC=|CC|N=|CF-1B#||N|1|C||r-|]=C##C=16=...   -10.0  0.511339
+
+
+Epoch: 5100 Reward: -1000.0 Loss: 0.389
+                                               SMILES  Reward   Fitness
+5   CCCCBBFBlC=|CC|N-|CF#B||N|1|C|r|=|#C=16=#||1||...   -10.0  0.514154
+1   CCC)BBFBlC=|CC|N-|CF#B||N|1|C|r|=|#C=16=#||1||...   -10.0  0.509219
+99  CCCCBBFBlC=|CC|N-|CF#B||N|1|C|r|=|#C=16=#||1||...   -10.0  0.509154
+
+
+Epoch: 5150 Reward: -1000.0 Loss: -2.652
+                                               SMILES  Reward   Fitness
+16  CCC)BBFBlC=|CC+N-|CF#BC|N|l|CPr|=|=16||1||||F|...   -10.0  0.513081
+88  CCC)BBFBlC=|CC+N-|CF#BC|N|l|CPr|=|=16||1||||F|...   -10.0  0.510016
+40  CCC)BBFBlC=|CC+N-|CF#BC|N|l|CPr|=|=16|||||||FF...   -10.0  0.508123
+
+
+Epoch: 5200 Reward: -1000.0 Loss: 1.604
+                                               SMILES  Reward   Fitness
+46  CCC)B|FBlC=|CC+N-|CF#BC|)|l|CPr|=|=1-||1|||F|+...   -10.0  0.512542
+90  CCC)BBFBlC=|CC+N-|CF#BC|)|l|CPr|=|=1-||1|||F|+...   -10.0  0.504271
+87  CCC)BBFBlC=|CC+N-|CF#BC|)|l|CPr|=|=1-||1|||F|+...   -10.0  0.503797
+
+
+Epoch: 5250 Reward: -1000.0 Loss: -2.886
+                                               SMILES  Reward   Fitness
+1   CCC)BBFBlC=|CC+N-|C=#BC|)|l|CPr|=|1||1||F3+|2F...   -10.0  0.510434
+85  CCC)BBFBlC=|CC+N-|C=#BC|)|l|CPr|=|-||1||F3+|2F...   -10.0  0.509847
+2   CCC)BBFBlC=|CC+N-|C=#4C|)|l|CPr|=|1||1||F3+|2F...   -10.0  0.507323
+
+
+Epoch: 5300 Reward: -1000.0 Loss: -1.937
+                                               SMILES  Reward   Fitness
+81  CCCNBBFBl-=|CC+N-|C=#BC|)|l|CPr|=|-||F+|2F|2O|...   -10.0  0.513257
+40  CCCOBBFBl-=|CC+N-|C=#BC|)|l|CPr|=|-||F+|2F|2O|...   -10.0  0.503396
+98  CCCOBBFBl-=|CC+N-|C=#BC|)|l|CPr|=|-||F+|2F|2O|...   -10.0  0.501491
+
+
+Epoch: 5350 Reward: -1000.0 Loss: -0.282
+                                               SMILES  Reward   Fitness
+38  CCCOBBFB-=CC+N-|C=#BC|)|l|CPr|=|--|F+2|2O]=|C|...   -10.0  0.505417
+0   CCCOBBFB-=CC+N-|C=#BC|)|l|CPr|=|--|F+2|2O]=|C|...   -10.0  0.505077
+23  CCCOBBFB-=|CC+N-|C=#BC|)|l|CPr|=|--|FF2|2O]=|C...   -10.0  0.504968
+
+
+Epoch: 5400 Reward: -1000.0 Loss: 0.941
+                                               SMILES  Reward   Fitness
+81  CCCOBBFB-=CCN-|C=#BC)Pl|CPr|=|--F+2|2O]C[||P|#...   -10.0  0.515199
+11  CCCOBBFB-=CCN-|C=#BC)Pl|CPr|=|--F+2|2]C[||P|#|...   -10.0  0.512950
+78  CCCOBBFB-=CCN-|C=#BC)Pl|CPr|=|--F+2|2O]C[||P|#...   -10.0  0.511824
+
+
+Epoch: 5450 Reward: -1000.0 Loss: -0.928
+                                               SMILES  Reward   Fitness
+8   CCCOBBFB-=CCN-|C=#CCPlHCPr=|--F+22C[|P|[|(BO||...   -10.0  0.516564
+73  CCCOBBFB-=CCN-|C=#CCPlHCPr=|--F+22C[|P|[|(BO||...   -10.0  0.516183
+12  CCCOBBFB-=CCN-|C=#CCPlHCPr=|--F+22C[|P|[|(BO||...   -10.0  0.514470
+
+
+Epoch: 5500 Reward: -1000.0 Loss: -0.635
+                                               SMILES  Reward   Fitness
+23  CCCBBFB-=CC-|C=#CClCPr=--F+22C[||[(O||[|-|P|=]...   -10.0  0.522753
+48  CCCBBFB-=CC-|C=#CClCPr=|--F+22C[||[(O||[|-|P|=...   -10.0  0.519614
+89  CCCBBFB-=CC-|C=#CClCPr=--F+22C[||[(O||[|-|P|=]...   -10.0  0.517458
+
+
+Epoch: 5550 Reward: -1000.0 Loss: 0.24
+                                               SMILES  Reward   Fitness
+52  CC+BBFB-=CC-|C=#CCCCPr--F+22C[||[([|-1P=||C|]|...   -10.0  0.508482
+74  CC+BBFB-=CC-|C=#CCCCPr--F+22C[||[([|-1P=||C|]|...   -10.0  0.507556
+14  CC+BBFB-=CC-|C=#CCCCPr--F+22C[||[([|-1P=||C|]|...   -10.0  0.505801
+
+
+Epoch: 5600 Reward: -1000.0 Loss: 0.546
+                                               SMILES  Reward   Fitness
+80  CC+6BFB-=CC-|C=#CCCCPr--F+22C[||[(-5P||C]]||(|...   -10.0  0.510458
+82  CC+6BFB-=CC-|C=#CCCCPr--F+22C[||[(-5P||C]]||(|...   -10.0  0.509939
+56  C+6BFB-=CC-|C=#CCCCPr--F+22C[||[(-5P||C]]||(|)...   -10.0  0.504662
+
+
+Epoch: 5650 Reward: -1000.0 Loss: -0.524
+                                               SMILES  Reward   Fitness
+50  CC+BFB-=CC-|C=#CCCCP--F+22C[||[(-5|||C]]N|(|r2...   -10.0  0.515197
+1   CC+FB-=CC-|C=#CCCCP--F+22C[||[(-5|||C]]N|(|r2F...   -10.0  0.511729
+94  CC+BFB-=CC-|C=#CCCCP--F+22C[||[(-5|||C]]N|(|r2...   -10.0  0.506205
+
+
+Epoch: 5700 Reward: -1000.0 Loss: -0.407
+                                               SMILES  Reward   Fitness
+69  CC+BFB-=CC-]C=#CCCCP--F+2C[||[(-|H]]|(r2F|+|)=...   -10.0  0.519519
+73  CC+BFB-=CC-]C=#CCCCP--F+2C[||[(-|H]]|(r2F|+|)=...   -10.0  0.513202
+11  CC+BFB-=CC-]C=#CCCCP--F+2C[||[(-|H]]|(r2F|+|)=...   -10.0  0.513024
+
+
+Epoch: 5750 Reward: -1000.0 Loss: -0.335
+                                               SMILES  Reward   Fitness
+6   CC+CFB-=CC]C=#CCCCP-F+C[||(-|H]]|(2|=H|F|||B)(...   -10.0  0.511595
+72  CC+CFB-=CC]C=#CCCCP-F+C[||(-|H]]|(2|=H|F|||B)(...   -10.0  0.505432
+13  CC+CFB-=CC]C=#CCCCP-F+C[||(-|H]]|(2|=H|F|||B)(...   -10.0  0.505283
+
+
+Epoch: 5800 Reward: -1000.0 Loss: -0.573
+                                               SMILES  Reward   Fitness
+79  CC+CFB-=CC]C=CCCCP-+C[||-|H]]|(2|=|F|||B)O|=FF...   -10.0  0.507163
+30  CC+CFB-=CC]C=CCCCP-+C[||-|H]]|(2|=|Fl||B)O|=FF...   -10.0  0.503890
+52  CC+CFB-=CC]C=CCCCP-+C[||-|H]]|(2|=|Fl||B)O|=FF...   -10.0  0.501188
+
+
+Epoch: 5850 Reward: -1000.0 Loss: -0.441
+                                               SMILES  Reward   Fitness
+4   CC+CFB-=CC]CCCCCP+C[=|-|H](2|=|F|)O|=6FP(|||||...   -10.0  0.510068
+88  CC+CFB-=CC]CCCCCP+C[=|-|H](2|=|F|)|=6F#P(|||||...   -10.0  0.506362
+63  CC+CFB-=CC]CCCCCP+C[=|-|H](2|=|F|)O|=6F#P(||||...   -10.0  0.505334
+
+
+Epoch: 5900 Reward: -1000.0 Loss: -0.22
+                                               SMILES  Reward   Fitness
+55  CC+CFB-=CC]CCCCCP+C[=|-|H](2=|F|)O5=6FP|||||||...   -10.0  0.519064
+43  CC+CFB-=CC]CCCCCP+C[=|-|H](2=|F|)O5=6FP|||||||...   -10.0  0.517722
+80  CC+CFB-=CC]CCCCCP+C[=4-|H](2=|F|)O5=6FP||||||r...   -10.0  0.514000
+
+
+Epoch: 5950 Reward: -1000.0 Loss: 0.381
+                                               SMILES  Reward   Fitness
+94  CC+CFB-=CC]CCCCC+C[=|-|H](2=|F|)O=6FP||+C|S[||...   -10.0  0.511195
+31  CC+CFB-=CC]CCCCC+C[=|-|H](2=|F|)O=6FP||+C|S[||...   -10.0  0.507833
+11  CCCFB-=CC]CCCCC+C[=|-|H](2=|F|)O=6FP||+C|S[||+...   -10.0  0.507627
+
+
+Epoch: 6000 Reward: -1000.0 Loss: -0.212
+                                               SMILES  Reward   Fitness
+0   CC+FB=CC]CCCCC+C[=O-|H](2=|F)O=6|P|C|[|1+|Br|6...   -10.0  0.515207
+82  CC+FB=CC]CCCCC+C[=O-|H](2=|F)O=6|P|C|[|1+|Br|6...   -10.0  0.509388
+34  CC+FB=CC]CCCCC+C[=O-|H](2=|F)O=6|P|C|[|1+|Br|6...   -10.0  0.505652
+
+
+Epoch: 6050 Reward: -1000.0 Loss: -0.028
+                                               SMILES  Reward   Fitness
+37  CC+FB=BC]CCCC+C[=-H(2=|F)O=|P|C||1+Br|6H||F|3B...   -10.0  0.509971
+39  CC+FB=BC]CCCC+C[=-H(2=|F)O=|P|C||1+Br|6H||F|3B...   -10.0  0.507737
+46  CC+FB=BC]CCCCC+C[=-H](2=|F)O=|P|]||+Br|6+|H|F|...   -10.0  0.506162
+
+
+Epoch: 6100 Reward: -1000.0 Loss: -0.314
+                                               SMILES  Reward   Fitness
+27  CC+FB=BCCCCC+C[=-H(2=|F)O=|P|C||1+Br|6||F|3B||...   -10.0  0.511381
+73  CC+FB=BCCCCC+C[=-H(2=|F)O=|P|C||1+Br|6||F|3B||...   -10.0  0.507184
+80  CC+FB=BCCCCC+C[=-H(2=F)O=|P|C||1+Br|6||F|3B|||...   -10.0  0.502636
+
+
+Epoch: 6150 Reward: -1000.0 Loss: 0.351
+                                               SMILES  Reward   Fitness
+3   CC+B=BCCCCC+C[=H(2=|F)=|P|C||1+B|6|F3B||BN||6|...   -10.0  0.506508
+7   CC+B=BCCCCC+C[=H(2=|F)=|P|C||1+B|6|F3B||BN||6|...   -10.0  0.505268
+89  CC+B=BCCCCC+C[=H(2=|F)=|P|C||1+B|6|F3B||BN||6|...   -10.0  0.504963
+
+
+Epoch: 6200 Reward: -1000.0 Loss: 0.228
+                                               SMILES  Reward   Fitness
+86  CC+B=BCCCCC+C[=H(2=|F)=|P|C||1+B|6|F3B||=|6||2...   -10.0  0.510027
+65  CC+B=BCCCCC+C[=H(2=|F)=|P|C||1+B|6|F3B||=|6||2...   -10.0  0.507234
+99  CC+B=BCCCCC+C[=H(2=|F)=|P|C||1+B|6|F#B||=|6||2...   -10.0  0.504793
+
+
+Epoch: 6250 Reward: -1000.0 Loss: -0.229
+                                               SMILES  Reward   Fitness
+96  CC+B=BCCCCC+C[=H(2=SF)=|P|C||1+B|6|F3B|6||2B|F...   -10.0  0.510805
+66  CC+B=BCCCCC+C[=H(2=SF)=|P|C|C1+B|6|F3B|6||2B|F...   -10.0  0.505066
+68  CC+B=BCCCCC+C[=H(2=SF)=|P|C||1+B|6|F3B|6||2B|F...   -10.0  0.500625
+
+
+Epoch: 6300 Reward: -1000.0 Loss: 0.238
+                                               SMILES  Reward   Fitness
+25  CC+B=BCCCCC+C[=H(2=SF)=|PrC||1+|656B|6|B|H||1|...   -10.0  0.514013
+1   CC+B=BCCCCC+C[=H(2=SF)=|PrC||1+|65B|6|B|H||1||...   -10.0  0.507053
+23  CC+B=BCCCCC+C[=H(2=SF)=|PrC||1+|656B|6|B|H||1|...   -10.0  0.501532
+
+
+Epoch: 6350 Reward: -1000.0 Loss: 0.015
+                                               SMILES  Reward   Fitness
+80  CCB=BCCCCC+C[H(=F)=|PrC||1+|6]|6|||Cr|[|||||(|...   -10.0  0.510494
+79  CCB=BCCCCC+C[H(=F)=|PrC||1+|6]|6|||Cr|[|1||||(...   -10.0  0.502664
+84  CCB=BCCCCC+CH(=F)=|PrC||1+|6]|6|||Cr|[|1||||(|...   -10.0 -0.501085
+
+
+Epoch: 6400 Reward: -1000.0 Loss: -0.075
+                                               SMILES  Reward   Fitness
+28  CCB=BCCCCC+C[N(=F)=|PrC||1+|||Cr|[|[|||(|=||||...   -10.0  0.511344
+49  CCB=BCCCCC+C[N(=F)=|PrC||1+|||Cr|[|[|||(|=||||...   -10.0  0.507570
+36  CCB=BCCCCC+C[N(=F)=|PrC||1+|||Cr|[|[|||(|=||||...   -10.0  0.505401
+
+
+Epoch: 6450 Reward: -1000.0 Loss: 0.047
+                                               SMILES  Reward   Fitness
+47  CCBBCCCC+C[N(=F)=|PrC||1+||CP[-|-|||||F(=|C|||...   -10.0  0.503532
+99  CCBBCCCC+C[N(=F)=|PrC||1+||CP[-|-|||||F=|C||||...   -10.0  0.501730
+16  CCB=BCCCC+C[N(=F)=|PrC||1+||CP[-|-|||||F(=|C||...   -10.0  0.500874
+
+
+Epoch: 6500 Reward: -1000.0 Loss: 0.674
+                                               SMILES  Reward   Fitness
+44  CCBCCCC+C[NN=F)=|PrC||1+||CP[-|-|||F=||||+#|S|...   -10.0  0.513147
+17  CCBCCCC+C[NN=F)=|PrC||1+||CP[-|-|||F=||||+#|S|...   -10.0  0.500467
+94  CCBCCCC+C[NN=F)=|PrC||1+||CP[-|-|||F=||||+#|S|...   -10.0 -0.500221
+
+
+Epoch: 6550 Reward: -1000.0 Loss: 0.444
+                                               SMILES  Reward   Fitness
+22  CBC4CC+C[NN=F)=|PrC|1+||CP[--||=|||]|+#|S|=|N|...   -10.0 -0.503105
+59  C(CCCC+C[NN=F)=|PrC|1+||CP[--||=|||]|+#|S|=|N|...   -10.0 -0.506846
+33  CBCCCC+C[NN=F)=|PrC|1+||CP[--||=||]|+#|S|=|N|B...   -10.0 -0.507655
+
+
+Epoch: 6600 Reward: -1000.0 Loss: 1.584
+                                               SMILES  Reward   Fitness
+92  CBC4CC+C[NN=F)=|PrC+||CP[--#|=|||]|S|=|B||11r|...   -10.0 -0.508409
+19  CBC4CC+C[NN=F)=|PrC+||CP[--#|=|||]|S|=|B||11r|...   -10.0 -0.508687
+51  CBC4CC+C[NN=F)=|PrC+||CP[--#|=|||]|S|=|B||11r|...   -10.0 -0.510064
+
+
+Epoch: 6650 Reward: -1000.0 Loss: -0.594
+                                               SMILES  Reward   Fitness
+0   CBC4CC+C[NN=F)=|Pr1+||CP[--#|=||]|S=|B|1r|5||S...   -10.0 -0.505849
+83  CBC4CC+C[NN=F)=|Pr1+||CP[--#|=||]|S=|B|1r||||S...   -10.0 -0.507844
+62  CBC4CC+C[NN=F)=|Pr1+||CP[--#|=||]|S=|B|1r||||S...   -10.0 -0.508492
+
+
+Epoch: 6700 Reward: -1000.0 Loss: -0.728
+                                               SMILES  Reward   Fitness
+7   CBCCC+CNN=F)=|rFl|CP[--#|=||]|=|B1||S=||rF||FC...   -10.0 -0.505351
+78  CBCCC+CNN=F)=|rFl|CP[--#|=||]|=|B1|(S=||rF||FC...   -10.0 -0.508242
+99  CBCCC+CNN=F)=|rFl|CP[--#|=||]|=|B1||S=||rF||FC...   -10.0 -0.509420
+
+
+Epoch: 6750 Reward: -1000.0 Loss: -0.633
+                                               SMILES  Reward   Fitness
+30  CBC-+CNN=F)=|rFl|CP[--#|=||||B1C|S=|F||FCF]C||...   -10.0  0.506668
+14  CBC-+CNN=F)=|Fl|CP[--#|=||||B1C|S=|F||FCF]C|||...   -10.0 -0.505558
+87  CBC-+CNN=F)=|rFl|CP[--#|=||||B1C|S=|F||FCF]C||...   -10.0 -0.508406
+
+
+Epoch: 6800 Reward: -1000.0 Loss: -0.233
+                                               SMILES  Reward   Fitness
+90  CBC-+CNN=F)=CrF|CP[--#|=||||B4C|S=|F||FCl]C|||...   -10.0  0.500237
+30  CBC-+CNN=F)=CrF|CP[--#|=||||B4C|S=|F||FCl|]C||...   -10.0 -0.503582
+16  CBC-+CNN=F)=CrF|CP[--#|=||||B4C|S=|F||FCl|]C||...   -10.0 -0.504566
+
+
+Epoch: 6850 Reward: -1000.0 Loss: 0.092
+                                               SMILES  Reward   Fitness
+34  CBC-+CN-=F)=CrF|CP[--#|=||||B4C|S(|FCCC|N|||]|...   -10.0  0.505944
+72  CBC-+CN-=F)=CrF|CP[--#|=||||B4C|S(|FCCC||||]|=...   -10.0  0.503907
+22  CBC-+CN-=F)=CrF|CP[--#|=||||B4C|S(|FCCC|N|||]|...   -10.0  0.502625
+
+
+Epoch: 6900 Reward: -1000.0 Loss: -2.949
+                                               SMILES  Reward   Fitness
+80  CBC-+CN-=F)=CrBNCP[--#|=||||B4C|S(|FCCC|B|||]|...   -10.0  0.504547
+29  CBC-+CN-=F)=CrBNCP[--#|=||||B4C|S(|FCCC|B||]||...   -10.0  0.500033
+75  CBC-+CN-=F)=CrBNCP[--#|=||||B4C|S(|FCCC|B||]||...   -10.0 -0.501051
+
+
+Epoch: 6950 Reward: -1000.0 Loss: 0.242
+                                               SMILES  Reward   Fitness
+58  CBC-+CN-=F)=CrBNCP[--#|=||||B4C|S(|FCCC|B||]||...   -10.0  0.515206
+64  CBC-+CN-=F)=CrBNCP[--#|=||||B4C|S(|FCCC|B||]||...   -10.0  0.511043
+26  CBC-+CN-=F)=CrBNCP[--#|=-|||B4C|S(|FCCC|B||]||...   -10.0  0.508958
+
+
+Epoch: 7000 Reward: -1000.0 Loss: 0.499
+                                               SMILES  Reward   Fitness
+16  CBC-+CNN=F)=CrBNCP)--#|=||||C4C|S|CCC|B|]||BC2...   -10.0  0.510653
+24  CBC-+CNN=F)=CrBNCP)--#|=||||C4C|S|CCC|B|]||BC2...   -10.0  0.506402
+44  CBC-+CNN=F)=CrBNCP)--#|=||||C4C|S|CCC|Bl]||BC2...   -10.0  0.505516
+
+
+Epoch: 7050 Reward: -1000.0 Loss: 0.315
+                                               SMILES  Reward   Fitness
+96  CBC-CN=F)=CrBNCP)-+#=||C4C|S|CCC|B|]|B2|26|CBC...   -10.0  0.510598
+76  CBC-CN=F)=CrBNCP)-+#=||C4C|S|CCC|B|]|B2|26|CB|...   -10.0  0.508138
+95  CBC-CN=F)=CrBNCP)-+#=||C4C|S|CCC|BO]|B2|26|CB|...   -10.0  0.504977
+
+
+Epoch: 7100 Reward: -1000.0 Loss: -0.074
+                                               SMILES  Reward   Fitness
+26  CBCCN=F)=CBCCP)-#=||C4C|S|CCC|B||B2|26|BC||||O...   -10.0  0.509344
+92  CBCCN=F)=CBCCP)-#=||C4C|S|CCC|B||B226|B||||O|N...   -10.0  0.500309
+54  CBCCN=F)=CBCCP)-#=||C4C|S|CCC|B||B2|26|BC||||O...   -10.0 -0.500486
+
+
+Epoch: 7150 Reward: -1000.0 Loss: 0.356
+                                               SMILES  Reward   Fitness
+29  CBCC=F)=CBCCP)-#||C4C||CCC|B||B2|6B||||O|F)|6F...   -10.0  0.504847
+19  CBCC=F)=CBCCP)-#||C4C|SCCC|B||B2|6B||||O|F)|6F...   -10.0  0.503338
+12  CBCC=F)=CBCCP)-#||C4C|S|CCC|B||B2|6B||||O|F)|6...   -10.0  0.501643
+
+
+Epoch: 7200 Reward: -1000.0 Loss: 0.01
+                                               SMILES  Reward   Fitness
+55  CBCC=F)=CBCCP)-#||C4||CCC|B||B2|6|||OB)6FH|O|l...   -10.0  0.501889
+32  CBCC=F)=CBCCP)-#||C4C||CCC|B||B2|6|||OBF)6FH|O...   -10.0  0.501371
+28  CBCC=F)=CBCC)-#||C4C||CCC|B||B2|6|||OBF)6FH|O|...   -10.0  0.501090
+
+
+Epoch: 7250 Reward: -1000.0 Loss: 1.192
+                                               SMILES  Reward   Fitness
+72  CBCC=F)=CBCCC)-#|C4C||COC|B||B2|6S4|OBF6H|O||=...   -10.0  0.512413
+95  CBCC=F)=CBCCC)-#|C4C||COC|B||B2|6S4|OBF6FH|||=...   -10.0  0.505512
+27  CBCC=F)=CBCCC)-#|C4C||COC|B||B2|6S4|OBF6FH|O||...   -10.0  0.505461
+
+
+Epoch: 7300 Reward: -1000.0 Loss: 0.045
+                                               SMILES  Reward   Fitness
+12  CBCC=F)=CBCCC)-HCPC|COCHB||B|6S4|OBC6FH|||=||H...   -10.0  0.516866
+39  CBCC=F)=CBCCC)-H|CPCBCOCB||B2|6S4|OBC6FH||=||H...   -10.0  0.514164
+49  CBCC=F)=CBCCC)-H|CPCBCOCB||B2|6S4|OBC6FH|||=||...   -10.0  0.510883
+
+
+Epoch: 7350 Reward: -1000.0 Loss: -0.398
+                                               SMILES  Reward   Fitness
+14  CBCC=F)=CBCCC)H|CPCBCOF||B2|6S4|O3CFH|=||H+||S...   -10.0  0.520336
+72  CBCC=F)=CBCCC)H|CPCBCOF||B2|6S4|O3CFH|=||H+||S...   -10.0  0.519095
+3   CBCC=F)=CBCCC)H|CPCBCOF||B2|6S4|O3CFH|=||H+||S...   -10.0  0.512798
+
+
+Epoch: 7400 Reward: -1000.0 Loss: -0.127
+                                               SMILES  Reward   Fitness
+24  CBCF=CBCCC)H|CPCBCF||B2|SS4|O3CFH||||S=F||3CPH...   -10.0  0.511424
+26  CBCF=CBCCC)H|CPCBCF||B2|SS4|O3CFH||||S=F||3CPH...   -10.0  0.506502
+89  CBCF=CBCCC)H|CPCBCF||B2|SS4|O3CFH||||S=F||3CPH...   -10.0  0.506217
+
+
+Epoch: 7450 Reward: -890.0 Loss: 615.813
+                                               SMILES  Reward   Fitness
+85  CBCF=CBCCCH|CPCBCF||B2|SS|O3C||S=F|3CPH|BB||]O...     1.0  0.514316
+59  CBC=CBCCCH|CPCBCF||B2|SS|O3C||S=F|3CPH|BB||]O|...     1.0  0.513974
+5   CBCF=CBCCCH|CPCBCF||B2|SS|O3C||S=F|3CPH|BB||]O...     1.0  0.510504
+
+
+Epoch: 7500 Reward: -989.0 Loss: 26.825
+                                               SMILES  Reward   Fitness
+84  CBCF=CBCCCCPCBCF||B2|SS|3C|S=|3H|BB|]C||B]||S|...     1.0  0.500234
+73  CBCF=CBCCCCPCBCF||B2|SS|3C|S=F|3H|BB|]C||B]||S...   -10.0  0.510699
+25  CBCF=CBCCCCPCBCF||B2|SS|3C|S=F|3H|BB|]C||B]||S...   -10.0  0.503310
+
+
+Epoch: 7550 Reward: -1000.0 Loss: -3.214
+                                               SMILES  Reward   Fitness
+13  CBC=CBCCCCPCBCF|B2|S3CS=|3HBB|C||B]||S|2|=|B||...   -10.0  0.506013
+97  CBC=CBCCCCPCBCF|B2|S3CS=|3HBB|C||B]||S|2|=|B||...   -10.0  0.503914
+66  CBC=CBCCCCPCBCF|B2|S3CS=|3HBB|C||B]||S|2|=|B||...   -10.0  0.503218
+
+
+Epoch: 7600 Reward: -1000.0 Loss: 1.313
+                                               SMILES  Reward   Fitness
+60  CBC=BCCCCPCBCF|B2|S3C=|3HBBC|B]||S2|B||]-|||||...   -10.0  0.500268
+29  CBC=BCCCCPCBCF|B2|S3C=|3HBBC||B]||S2|B||]-||||...   -10.0 -0.501153
+5   CBC=BCCCCPCBCF|B2|S3C=|3HBBC||B]||S2|B||-|||||...   -10.0 -0.505202
+
+
+Epoch: 7650 Reward: -1000.0 Loss: -1.048
+                                               SMILES  Reward   Fitness
+51  CBCBCCCCCBCF|B2|S3C=|3HBBC||B]||S2|B||-|||||||...   -10.0  0.509726
+18  CBCBCCCCCBCF|B2|S3C=|3HBBC||B]||S2|B||-|||||||...   -10.0  0.506971
+58  CBCBCCCCCBCF|B2|S3C=|3HBBC||B]||S2|B||-|||||||...   -10.0  0.503919
+
+
+Epoch: 7700 Reward: -1000.0 Loss: -0.206
+                                               SMILES  Reward   Fitness
+99  CBCBCCCCCBCF|2|S3C=|HBBC|]|S2|B|-||||||||||||S...   -10.0  0.506050
+20  CBCBCCCCCBCF|2|S3C=|HBBC|]|S2|B|-|||||||||||S|...   -10.0  0.504798
+69  CBCBCCCCCBCF|2|S3C=|HBBC|]|S2|B|-||||||||||||S...   -10.0  0.504091
+
+
+Epoch: 7750 Reward: -1000.0 Loss: 0.042
+                                               SMILES  Reward   Fitness
+21  CBCBCCCCCBCF|2|S3C=HBBC|]|S|B|-||||||||||S||||...   -10.0 -0.501078
+41  CBCBCCCCCBCF|2|S3C=HBBC|]|S|B|-||||||||||S||||...   -10.0 -0.502238
+81  CBCBCCCCCBCF|2|S3C=HBBC|]|S|B|-||||||||||S||||...   -10.0 -0.504719
+
+
+Epoch: 7800 Reward: -1000.0 Loss: 0.186
+                                               SMILES  Reward   Fitness
+39  CBCBCCCCCBCF||S3C=BBC|]||B|-||||||||||||||||||...   -10.0  0.501360
+33  CBCBCCCCCBCF||S3C=HBBC|]||B|-|||||||||||||||||...   -10.0 -0.503881
+47  CBCBCCCCCBCF||S3C=HBBC|]||B|-|||||||||||||||||...   -10.0 -0.504480
+
+
+Epoch: 7850 Reward: -1000.0 Loss: 0.019
+                                               SMILES  Reward   Fitness
+91  CBCBCCCCBCF||S3C=BBC|]||B|-|||||||||||||||||3|...   -10.0  0.507915
+35  CBCBCCCCBCF||S3C=BBC|]||B|-|||||||||||||||||3|...   -10.0 -0.501734
+12  CBCBCCCCBCF||S3C=BBC|]||B|-|||||||||||||||||3|...   -10.0 -0.502530
+
+
+Epoch: 7900 Reward: -1000.0 Loss: 0.238
+                                               SMILES  Reward   Fitness
+2   CBCBCCCCBCF||C=BBC|]||B|-|||||||||||3|||||||||...   -10.0  0.510618
+67  CBCBCCCCBCF||C=BBC|]||B|-||||||||||3||||||||||...   -10.0  0.504501
+39  CBCBCCCCBCF||C=BBC|]||B|-|||||||||||3|||||||||...   -10.0  0.501054
+
+
+Epoch: 7950 Reward: -1000.0 Loss: 0.01
+                                               SMILES  Reward   Fitness
+57  CBCBCCCCBF||C=BBC|]||B|-|||||||||3||||||||||||...   -10.0  0.500357
+27  CBCBCCCCBF||C=BBC|]||B|-|||||||||3||||||||||||...   -10.0 -0.500650
+20  CBCBCCCCBF||C=BBC|]||B|-|||||||||3||||||||||||...   -10.0 -0.501209
+
+
+Epoch: 8000 Reward: -1000.0 Loss: -0.559
+                                               SMILES  Reward   Fitness
+20  CBCBCCCCBF|CBBC|]||B|-||||||||3|||||||||||||||...   -10.0 -0.501157
+17  CBCBCCCCBFC=BBC|]||B|-||||||||3|||||||||||||||...   -10.0 -0.501969
+87  CBCBCCCCBFC=BBC|]||B|-||||||||3|||||||||||||||...   -10.0 -0.502574
+
+
+Epoch: 8050 Reward: -1000.0 Loss: 0.267
+                                               SMILES  Reward   Fitness
+94  CBCBCCCCBF|CBBC|]|B|-||||||||||||||||||C||||||...   -10.0  0.503397
+31  CBCBCCCCBF|CBBC|]|B|-||||||||||||||||||C||||||...   -10.0 -0.501207
+45  CBCBCCCCBF|CBBC|]|B|-||||||||||||||||||C||||||...   -10.0 -0.501451
+
+
+Epoch: 8100 Reward: -1000.0 Loss: 0.407
+                                               SMILES  Reward   Fitness
+76  CBCBCCCCBF|CBBC|]|B-|||||||||||||||||C||rr|||C...   -10.0 -0.503787
+21  CBCBCCCCBF|CBBC|]|B-||||||||||||||||C||rr|||C|...   -10.0 -0.503925
+13  CBCBCCCCBF|CBBC|]|B-|||||||||||||||||C||rr|||C...   -10.0 -0.504738
+
+
+Epoch: 8150 Reward: -989.0 Loss: 96.693
+                                               SMILES  Reward   Fitness
+96  CBCBCCCCBF|CBBC||B-||||||||||||||||C||||C|||||...     1.0  0.502975
+84  CBCBCCCCBF|CBBC|]|B-||||||||||||||||C||||C||||...   -10.0 -0.502724
+75  CBCBCCCCBF|CBBC|]|B-||||||||||||||||C||||C||||...   -10.0 -0.503249
+
+
+Epoch: 8200 Reward: -989.0 Loss: 31.38
+                                               SMILES  Reward   Fitness
+83  CBCBCCCCBF|CBBC|]|B-|||||||||||||||C||||||||||...     1.0  0.500678
+15  CBCBCCCCBF|CBBC|]|B-|||||||||||||||C||||||||||...   -10.0 -0.502474
+0   CBCBCCCCBF|CBBC|]|B-|||||||||||||||C||||||||||...   -10.0 -0.503085
+
+
+Epoch: 8250 Reward: -1000.0 Loss: 0.734
+                                               SMILES  Reward   Fitness
+13  CBCBCCCCBF|CBBC|]|B|||||||||||||C||||||||||B||...   -10.0  0.503153
+43  CBCBCCCCBF|CBBC|]|B|||||||||||||C||||||||||B||...   -10.0 -0.502088
+8   CBCBCCCCBF|CBBC|]|B||||||||||||C||||||||||B|||...   -10.0 -0.502493
+
+
+Epoch: 8300 Reward: -1000.0 Loss: -0.758
+                                               SMILES  Reward   Fitness
+3   CBCBCCCCBF|CBBC|]|B||||||||||||C||||||||B|||||...   -10.0  0.504290
+85  CBCBCCCCBF|CBBC|]|B||||||||||||C||||||||B|||||...   -10.0 -0.501509
+95  CBCBCCCCBF|CBBC|]|B||||||||||||C||||||||B|||||...   -10.0 -0.502437
+
+
+Epoch: 8350 Reward: -978.0 Loss: 102.496
+                                               SMILES  Reward   Fitness
+20  CBCBCCCCBF|CBBC|]|B|||||||||||C||||||B||||||||...     1.0  0.511814
+19  CBCBCCCCBF|CBBC|]|B||||||||||C||||||B|||||||||...     1.0  0.501280
+51  CBCBCCCCBF|CBBC|]|B|||||||||||C||||||B||||||||...   -10.0  0.501162
+
+
+Epoch: 8400 Reward: -967.0 Loss: 166.161
+                                               SMILES  Reward   Fitness
+26  CBCBCCCCBF|CBBC|]|B|||||||||||C||||||B||||||||...     1.0  0.508148
+83  CBCBCCCCBF|CBBC|]|B|||||||||||C||||||B||||||||...     1.0  0.500841
+66  CBCBCCCCBF|CBBC|]|B|||||||||||C|||||B|||||||||...     1.0  0.500568
+
+
+Epoch: 8450 Reward: -978.0 Loss: 110.167
+                                               SMILES  Reward   Fitness
+31  CBCBCCCCBF|CBBC|]|B|||||||||||C||||||B|||||C||...     1.0  0.500741
+28  CBCBCCCCBF|CBBC|]|B|||||||||||C||||||B|||||C|]...     1.0  0.500220
+32  CBCBCCCCBF|CBBC|]|B|||||||||||C||||||B|||||C|]...   -10.0 -0.500121
+
+
+Epoch: 8500 Reward: -1000.0 Loss: -8.148
+                                               SMILES  Reward   Fitness
+35  CBCBCCCCBF|CBBC|]|B|||||||||||C|||||B|||||||||...   -10.0 -0.504067
+36  CBCBCCCCBF|CBBC|]|B|||||||||||C|||||B|||||||||...   -10.0 -0.505931
+44  CBCBCCCCBF|CBBC|]|B|||||||||||C|||||B|||||||||...   -10.0 -0.509276
+
+
+Epoch: 8550 Reward: -1000.0 Loss: 2.626
+                                               SMILES  Reward   Fitness
+71  CBCBCCCCBF|CBBC|]|B|||||||||||C||||B||||||||||...   -10.0 -0.502206
+72  CBCBCCCCBF|CBBC|]|B|||||||||||C||||B||||||||||...   -10.0 -0.502224
+38  CBCBCCCCBF|CBBC|]|B|||||||||||C||||B||||||||||...   -10.0 -0.502907
+
+
+Epoch: 8600 Reward: -1000.0 Loss: 0.504
+                                               SMILES  Reward   Fitness
+47  CBCBCCCCBF|CBBC|]|B|||||||||||C||||B||||||||||...   -10.0 -0.501994
+56  CBCBCCCCBF|CBBC|]|B|||||||||||C||||B||||||||||...   -10.0 -0.506904
+91  CBCBCCCCBF|CBBC|]|B|||||||||||C||||B||||||||||...   -10.0 -0.507070
+
+
+Epoch: 8650 Reward: -1000.0 Loss: 0.095
+                                               SMILES  Reward   Fitness
+28  CBCBCCCCBF|CBBC|]|B|||||||||||C||||B||||||||||...   -10.0 -0.501695
+66  CBCBCCCCBF|CBBC|]|B|||||||||||C||||B||||||||||...   -10.0 -0.503352
+50  CBCBCCCCBF|CBBC|]|B|||||||||||C||||B||||||||||...   -10.0 -0.503425
+
+
+Epoch: 8700 Reward: -1000.0 Loss: 0.22
+                                               SMILES  Reward   Fitness
+37  CBCBCCCCBF|CBBC|]|B|||||||||||C||||B|||||||5||...   -10.0  0.502761
+98  CBCBCCCCBF|CBBC|]|B|||||||||||C||||B||||||5|||...   -10.0  0.502478
+4   CBCBCCCCBF|CBBC|]|B|||||||||||C||||B||||||5|||...   -10.0  0.500336
+
+
+Epoch: 8750 Reward: -1000.0 Loss: 0.391
+                                               SMILES  Reward   Fitness
+76  CBCBCCCCBF|CBBC|]|B|||||||||||C||||B||||5|||||...   -10.0  0.504264
+15  CBCBCCCCBF|CBBC|]|B|||||||||||C||||B||||5|||||...   -10.0 -0.503192
+24  CBCBCCCCBF|CBBC|]|B|||||||||||C||||B||||5|||||...   -10.0 -0.503651
+
+
+Epoch: 8800 Reward: -956.0 Loss: 206.286
+                                               SMILES  Reward   Fitness
+4   CBCBCCCCBF|CBBC|]|B|||||||||||C|||||||||||||||...     1.0  0.504317
+26  CBCBCCCCBF|CBBC|]|B|||||||||||C|||||||||||||||...     1.0  0.502765
+60  CBCBCCCCBF|CBBC|]|B||||||||||C||||||||||||||||...     1.0  0.502044
+
+
+Epoch: 8850 Reward: -1000.0 Loss: 0.004
+                                               SMILES  Reward   Fitness
+80  CBCBCCCCBF|CBBC|]|B||||||||||C|||||||||||||=||...   -10.0 -0.501723
+43  CBCBCCCCBF|CBBC|]|B|||||||||||C||||||||||||=||...   -10.0 -0.501812
+39  CBCBCCCCBF|CBBC|]|B|||||||||||C||||||||||||=||...   -10.0 -0.502895
+
+
+Epoch: 8900 Reward: -989.0 Loss: 23.59
+                                               SMILES  Reward   Fitness
+90  CBCBCCCCBF|CBBC|]|B|||||||||||C|||||||||||||||...     1.0  0.501900
+31  CBCBCCCCBFCBBC|]|B|||||||||||C||||||||||||||||...   -10.0 -0.501126
+37  CBCBCCCCBF|CBBC|]|B|||||||||||C|||||||||||||||...   -10.0 -0.501596
+
+
+Epoch: 8950 Reward: -1000.0 Loss: -1.086
+                                               SMILES  Reward   Fitness
+96  CBCBCCCCBF|CBBC|]|B|||||||||||C|||||||||||||||...   -10.0 -0.502238
+42  CBCBCCCCBF|CBBC|]|B|||||||||||C|||||||||||||||...   -10.0 -0.505596
+4   CBCBCCCCBF|CBBC|]|B|||||||||||C|||||||||||||||...   -10.0 -0.506079
+
+
+Epoch: 9000 Reward: -989.0 Loss: 29.255
+                                               SMILES  Reward   Fitness
+98  CBCBCCCCBF|CBBC||B|||||||||||C||||||||||||||||...     1.0  0.500042
+78  CBCBCCCCBF|CBBC||B|||||||||||C||||||||||||||||...   -10.0  0.500165
+71  CBCBCCCCBF|CBBC||B|||||||||||C||||||||||||||||...   -10.0 -0.502028
+
+
+Epoch: 9050 Reward: -1000.0 Loss: -0.176
+                                               SMILES  Reward   Fitness
+23  CBCBCCCCBF|CBBC||B|||||||||||C||||||||||||||||...   -10.0 -0.502350
+27  CBCBCCCCBF|CBBC||B|||||||||||C||||||||||||||||...   -10.0 -0.502927
+84  CBCBCCCCBF|CBBC||B|||||||||||C||||||||||||||||...   -10.0 -0.503282
+
+
+Epoch: 9100 Reward: -1000.0 Loss: 2.796
+                                               SMILES  Reward   Fitness
+7   CBCBCCCCBFCBBC||B||||||||||C||||||||||||||||||...   -10.0 -0.502964
+58  CBCBCCCCBFCBBC||B||||||||||C||||||||||||||||||...   -10.0 -0.505392
+94  CBCBCCCCBFCBBC||B||||||||||C||||||||||||||||||...   -10.0 -0.506180
+
+
+Epoch: 9150 Reward: -1000.0 Loss: -3.977
+                                               SMILES  Reward   Fitness
+39  CBCBCCCCBCBBC||B||||||||||C|||||||||||||||||||...   -10.0 -0.501996
+49  CBCBCCCCBCBBC||B||||||||||C|||||||||||||||||||...   -10.0 -0.503124
+40  CBCBCCCCBCBBC||B||||||||||C|||||||||||||||||||...   -10.0 -0.504883
+
+
+Epoch: 9200 Reward: -1000.0 Loss: -0.405
+                                               SMILES  Reward   Fitness
+60  CBCBCCCBCBBC||B||||||||||C||||||||||||C|||||||...   -10.0 -0.508313
+91  CBCBCCCBCBBC||B||||||||||C||||||||||||C|||||||...   -10.0 -0.508460
+75  CBCBCCCBCBBC||B||||||||||C||||||||||||C|||||||...   -10.0 -0.509093
+
+
+Epoch: 9250 Reward: -1000.0 Loss: 0.057
+                                               SMILES  Reward   Fitness
+37  CBCBCCCBCBBC||B||||||||||C|||||||||||C||||||||...   -10.0 -0.504169
+12  CBCBCCCBCBBC||B||||||||||C||||||||||C|||||||||...   -10.0 -0.505598
+57  CBCBCCCBCBBC||B||||||||||C|||||||||||C||||||||...   -10.0 -0.506503
+
+
+Epoch: 9300 Reward: -1000.0 Loss: -0.066
+                                               SMILES  Reward   Fitness
+71  CBCBCCCBCBC||B||||||||C||||||||||C||||||||||||...   -10.0 -0.506100
+43  CBCBCCCBCBC||B||||||||C||||||||||C||||||||||||...   -10.0 -0.509516
+13  CBCBCCCBCBC||B||||||||C||||||||||C||||||||||||...   -10.0 -0.510592
+
+
+Epoch: 9350 Reward: -1000.0 Loss: -0.011
+                                               SMILES  Reward   Fitness
+86  CCBCCCBCBC||B||||||||C||||||||C|||||||||||||||...   -10.0 -0.504653
+74  CCBCCCBCBC||B||||||||C||||||||C|||||||||||||||...   -10.0 -0.506691
+6   CCBCCCBCBC||B||||||||C||||||||C|||||||||||||||...   -10.0 -0.506853
+
+
+Epoch: 9400 Reward: -1000.0 Loss: -0.139
+                                               SMILES  Reward   Fitness
+21  CCBCCCBCBC|B||||||||C||||||||C||||||||||||||||...   -10.0 -0.509413
+18  CCBCCCBCBC|B||||||||C||||||||C||||||||||||||||...   -10.0 -0.510016
+70  CCBCCCBCBC|B||||||||C||||||||C||||||||||||||||...   -10.0 -0.511856
+
+
+Epoch: 9450 Reward: -1000.0 Loss: -0.052
+                                               SMILES  Reward   Fitness
+94  CCBCCCBCBC|B|||||||C||||||||C|||||||||||||||||...   -10.0 -0.505288
+64  CCBCCCBCBC|B|||||||C||||||||C|||||||||||||||||...   -10.0 -0.508062
+49  CCBCCCBCBC|B|||||||C||||||||C|||||||||||||||||...   -10.0 -0.511301
+
+
+Epoch: 9500 Reward: -1000.0 Loss: -0.086
+                                               SMILES  Reward   Fitness
+62  CCBCCCBCBC|B|||||||C||||||||C|||||||||||||||||...   -10.0 -0.503619
+86  CCBCCCBCBC|B|||||||C||||||||C|||||||||||||||||...   -10.0 -0.506525
+66  CCBCCCBCBC|B|||||||C||||||||C|||||||||||||||||...   -10.0 -0.507264
+
+
+Epoch: 9550 Reward: -1000.0 Loss: 0.196
+                                               SMILES  Reward   Fitness
+99  CCBCCCBCBCB|||||||C||||||||C||||||||||||||||||...   -10.0 -0.506034
+93  CCBCCCBCBCB|||||||C||||||||C||||||||||||||||||...   -10.0 -0.507180
+84  CCBCCCBCBCB|||||||C||||||||C|||||||||||||||||H...   -10.0 -0.508429
+
+
+Epoch: 9600 Reward: -1000.0 Loss: -0.024
+                                               SMILES  Reward   Fitness
+15  CCBCCCBCBCB|||||||C||||||||C||||||||||||H|||||...   -10.0 -0.506653
+22  CCBCCCBCBCB|||||||C||||||||C||||||||||||||||||...   -10.0 -0.509807
+23  CCBCCCBCBCB|||||||C||||||||C||||||||||||H|||||...   -10.0 -0.511008
+
+
+Epoch: 9650 Reward: -1000.0 Loss: -0.142
+                                               SMILES  Reward   Fitness
+10  CCBCCCBCBCB||||||C|||||||C||||||||||||||||||||...   -10.0 -0.508685
+12  CCBCCCBCBCB||||||C|||||||C||||||||||||||||||||...   -10.0 -0.509369
+68  CCBCCCBCBCB||||||C|||||||C||||||||||||||||||||...   -10.0 -0.510773
+
+
+Epoch: 9700 Reward: -1000.0 Loss: 0.03
+                                               SMILES  Reward   Fitness
+18  CCBCCCBCBC|||||C|||||||C||||||||||||||||||||||...   -10.0 -0.507359
+51  CCBCCCBCBC|||||C|||||||C||||||||||||||||||||||...   -10.0 -0.509840
+83  CCBCCCBCBC|||||C|||||||C||||||||||||||||||||||...   -10.0 -0.510885
+
+
+Epoch: 9750 Reward: -1000.0 Loss: 0.027
+                                               SMILES  Reward   Fitness
+93  CCBCCCBCBC|||||C|||||||C||||||||||||||||||||||...   -10.0 -0.510042
+89  CCBCCCBCBC|||||C|||||||C||||||||||||||||||||||...   -10.0 -0.510404
+40  CCBCCCBCBC|||||C|||||||C||||||||||||||||||||||...   -10.0 -0.510809
+
+
+Epoch: 9800 Reward: -1000.0 Loss: -0.115
+                                               SMILES  Reward   Fitness
+15  CCBCCCBCBC|||||C|||||||C||||||||||||||||||||||...   -10.0 -0.508523
+64  CCBCCCBCBC|||||C|||||||C||||||||||||||||||||||...   -10.0 -0.509526
+50  CCBCCCBCBC|||||C|||||||C||||||||||||||||||||||...   -10.0 -0.509654
+
+
+Epoch: 9850 Reward: -1000.0 Loss: -0.054
+                                               SMILES  Reward   Fitness
+48  CCBCCCBCBC|||||C|||||C||||||||||||||||||||||||...   -10.0 -0.507565
+91  CCBCCCBCBC|||||C|||||C||||||||||||||||||||||||...   -10.0 -0.508771
+67  CCBCCCBCBC|||||C|||||C||||||||||||||||||||||||...   -10.0 -0.509351
+
+
+Epoch: 9900 Reward: -989.0 Loss: 20.819
+                                               SMILES  Reward   Fitness
+9   CCBCCCBCBC||||C||||CC|||||||||||||||||||||||||...     1.0  0.500904
+20  CCBCCCBCBC||||C||||CC|||||||||||||||||||||||||...   -10.0 -0.507131
+2   CCBCCCBCBC||||C||||CC|||||||||||||||||||||||||...   -10.0 -0.507264
+
+
+Epoch: 9950 Reward: -1000.0 Loss: 0.159
+                                               SMILES  Reward   Fitness
+89  CCBCCCBCBC||C||||CC|||||||||||||||||||||||||||...   -10.0 -0.506063
+19  CCBCCCBCBC||C||||CC|||||||||||||||||||||||||||...   -10.0 -0.506644
+36  CCBCCCBCBC||C||||CC|||||||||||||||||||||||||||...   -10.0 -0.507462
+
+
+Epoch: 10000 Reward: -1000.0 Loss: -0.73
+                                               SMILES  Reward   Fitness
+21  CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||...   -10.0 -0.501915
+66  CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||...   -10.0 -0.502028
+47  CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||...   -10.0 -0.502080
+
+
+Epoch: 10050 Reward: -978.0 Loss: 39.407
+                                               SMILES  Reward   Fitness
+58  CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||...     1.0  0.503029
+24  CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||...     1.0  0.501756
+15  CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||...   -10.0 -0.501527
+
+
+Epoch: 10100 Reward: -978.0 Loss: 62.287
+                                               SMILES  Reward   Fitness
+73  CCBCCCBCBCC|C||||CC||||||||||||||||||||||||||]...     1.0  0.503837
+26  CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||]|...     1.0  0.501332
+86  CCBCCCBCBCC|C||||CC|||||||||||||||||||||l||||]...   -10.0 -0.502276
+
+
+Epoch: 10150 Reward: -1000.0 Loss: -1.685
+                                               SMILES  Reward   Fitness
+26  CCBCCCBCBCC|C||||CC||||||||||||||||||||C||||||...   -10.0 -0.500846
+17  CCBCCCBCBCC|C||||CC||||||||||||||||||||C||||||...   -10.0 -0.501917
+36  CCBCCCBCBCC|C||||CC||||||||||||||||||||C||||||...   -10.0 -0.502544
+
+
+Epoch: 10200 Reward: -1000.0 Loss: -0.663
+                                               SMILES  Reward   Fitness
+0   CCBCCCBCBCC|C||||CC||||||||||||||||||||C||||||...   -10.0  0.505127
+81  CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||...   -10.0 -0.501168
+7   CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||...   -10.0 -0.502568
+
+
