@@ -21,7 +21,7 @@ CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||... -10.0 -0.502080
 ```
 
 # Cite
-**DOI**: http://doi.org/10.5281/zenodo.3510077
+**DOI**: https://doi.org/10.5281/zenodo.3518054
 
 ```
 @misc{gananath2016,
@@ -30,6 +30,7 @@ CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||... -10.0 -0.502080
   year = {2019},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Gananath/NERD}}
+  howpublished = {\url{https://github.com/Gananath/NERD}},
+  doi = {10.5281/zenodo.3518054}
 }
 ```
