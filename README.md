@@ -12,13 +12,15 @@ https://gananath.github.io/nerd.html
 - sklearn
 
 # Current result
-
+## Sequence Generation
 **Epoch: 10000 Reward: -1000.0 Loss: -0.73**
 ```
 CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||... -10.0 -0.501915 
 CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||... -10.0 -0.502028 
 CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||... -10.0 -0.502080
 ```
+## Image Generation
+![nerd_mnist](https://raw.githubusercontent.com/Gananath/NERD/master/NERD_IMAGES/nerd_mnist.png)
 
 # Cite
 **DOI**: https://doi.org/10.5281/zenodo.3518054
