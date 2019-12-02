@@ -7,7 +7,7 @@ Trained NERD algorithm to generate images.
 *Numbers at the top of the image is reward/fitness values*
 
 # Notes
-I have found some problems with my initial NERD pytorch implementation for sequence generation. The main one was in the neural network for reward fitness function itself which failed to learn anything. Thats why I chose image generation which is well a studied problem and have lots of newtork implementation available in the web. A small dataset of about 200 images were used for training reward fitness model. The trained reward fitness model has a 100 percentage accuracy with very low error values between 0.02 and 0.05.
+I have found problems with my initial NERD pytorch implementation for sequence generation. The main one was in the neural network for reward fitness function itself which failed to learn anything. Thats why I chose image generation which is well a studied and simple problem and have lots of newtork implementation available in the web. A small dataset of about 200 images were used for training reward fitness model. The trained reward fitness neural network has a 100 percentage accuracy with very low error values between 0.02 and 0.05.
 
 
 # Important changes
