@@ -12,6 +12,8 @@ https://gananath.github.io/nerd.html
 - sklearn
 
 # Current result
+> After some testing I found that actions taken by RL agent are collapsing to a certain action similar to mode collapse in GAN. 
+
 ## Sequence Generation
 **Epoch: 10000 Reward: -1000.0 Loss: -0.73**
 ```
