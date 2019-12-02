@@ -3,6 +3,7 @@
 Trained NERD(v2) algorithm to generate images.
 
 ![nerd_mnist](https://raw.githubusercontent.com/Gananath/NERD/master/NERD_IMAGES/nerd_mnist.png)
+
 *Numbers at the top of the image is reward/fitness values*
 
 # Notes
