@@ -3,7 +3,7 @@
 Trained NERD(v2) algorithm to generate images.
 
 ![nerd_mnist](https://raw.githubusercontent.com/Gananath/NERD/master/NERD_IMAGES/nerd_mnist.png)
-
+*Numbers at the top of the image is reward/fitness values*
 
 # Notes
 I have found some problems with my initial NERD pytorch implementation for sequence generation. The main one was in the neural network for reward fitness function itself which failed to learn anything. Thats why I chose image generation which is a well studied system.
