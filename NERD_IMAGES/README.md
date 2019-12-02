@@ -1,6 +1,6 @@
 
 # NERD FOR IMAGES
-Trained NERD(v2) algorithm to generate images.
+Trained NERD algorithm to generate images.
 
 ![nerd_mnist](https://raw.githubusercontent.com/Gananath/NERD/master/NERD_IMAGES/nerd_mnist.png)
 
