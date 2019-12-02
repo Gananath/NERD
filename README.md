@@ -20,6 +20,7 @@ CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||... -10.0 -0.502028
 CCBCCCBCBCC|C||||CC|||||||||||||||||||||||||||... -10.0 -0.502080
 ```
 ## Image Generation
+> https://github.com/Gananath/NERD/tree/master/NERD_IMAGES
 ![nerd_mnist](https://raw.githubusercontent.com/Gananath/NERD/master/NERD_IMAGES/nerd_mnist.png)
 
 # Cite
