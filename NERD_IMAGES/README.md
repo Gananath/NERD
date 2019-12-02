@@ -20,6 +20,6 @@ I have found problems with my initial NERD pytorch implementation for sequence g
 
 - A kernel (m x n) approach was used for mutaion instead of pixel level.
 
-- The actor critic model have control over selecting the region over the images.
+- Actor critic model has control over selecting the region over the images for mutation.
 
 
