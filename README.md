@@ -1,5 +1,6 @@
 # NERD
 **Note: Current format of NERD is NOT WORKING the way I hoped for need some more modifications.**
+
 Evolution of Discrete data with Reinforcement Learning
 
 https://gananath.github.io/nerd.html
